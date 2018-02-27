@@ -1,6 +1,0 @@
-Train:
-   Electr: 454
-   Med:    334
-
-   
-
