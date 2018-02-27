@@ -1,0 +1,4655 @@
+Message,Prediction,Topic
+"
+
+Dr. willian Horatio Bates born 1860 and graduated from med school
+1885.  Medical career hampered by spells of total amnesia.  Published in
+1920, his great work ""The Cure of Imperfect Eyesight by Treatment With-
+out Glasses"", He made claims about how the eye actually works that are
+simply NOT TRUE.  Aldous Huxley was one of the more ""high profile""
+beleivers in his system.  Mr. Huxley while giving a lecture on Bates system
+forgot the lecture that he was supposedely reading and had to put the
+paper right up to his eyes and then resorted to a magnifying glass from
+his pocket.  book have been written debunking this technique, however
+they remain less read than the original fraud.  cheers
+
+           jc@oneb.almanac.bc.ca (John Cross)
+     The Old Frog's Almanac  (Home of The Almanac UNIX Users Group)    
+(604) 245-3205 (v32)    <Public Access UseNet>    (604) 245-4366 (2400x4)
+        Vancouver Island, British Columbia    Waffle XENIX 1.64  
+",M,M
+"
+
+Last week I asked for help in getting an old homemade amp working with
+my Sun CD-ROM drive. It turns out that the channel I was testing with
+was burned out in the amp. The other channel works fine.
+
+So now I need a new amplifier chip. My local Radio Shack no longer
+carries components! The chip is a 12 pin SIP (?) labelled with BA5406
+and then ""502 515"" below that.
+
+Does anyone have a source? Thanks,
+-- 
+Bill Morrow    Clinical Neurosciences, University of Calgary
+e-mail: morrow@cns.ucalgary.ca voice: (403) 220-6275 fax: (403) 283-8770 
+3330 Hospital Drive NW Calgary, Alberta, CANADA T2N 4N1
+",E,E
+"
+
+Brenda Bowden (brenda@bookhouse.Eng.Sun.COM) wrote:
+
+: Does anyone know about these studies? Or have experience with feverfew?
+
+I keep an accurate log of my migraine attack frequency; feverfew didn't
+seem to do anything for me.  However, eliminating caffeine seems to pre-
+vent the onset of migraine in my case.  In other words, no caffeine, no 
+migraines.
+
+Don Montgomery
+donrm@sr.hp.com
+
+",E,M
+"
+
+In article <westesC60xqF.59r@netcom.com>, westes@netcom.com (Will Estes) writes:
+>Does anyone know of research done on the use of haldol in the elderly?  Does 
+>short-term use of the drug ever produce long-term side-effects after
+>the use of the drug?  My grandmother recently had to be hospitalized
+>and was given large doses of haldol for several weeks.  Although the
+>drug has been terminated, she has changed from a perky, slightly
+>senile woman into a virtual vegetable who does not talk to anyone
+>and who cannot even eat or brush her teeth without assistance.  It
+>seems incredible to me that such changes could take place in the
+>course of just one and one-half months.  I have to believe that the
+>combination of the hospital stay and some drug(s) are in part
+>catalysts for this.  Any comments?
+>
+>-- 
+>Will Estes		Internet: westes@netcom.com
+
+Haldol, one of the wonder drugs that works wonders.  If you're a carrot that
+is.
+***************************************************************************
+Henry Dunham (Chip) EMT-D, NREMT
+Coordinator of EMS Operations
+Houston Field House EMS
+HD0022@albnyvms.bitnet
+***************************************************************************
+",M,M
+"
+
+crisp@ecsvax.uncecs.edu (Russ Crisp) writes:
+
+>SO..  Here's my question.  It seems to me that I'd have the
+>same electrical circuit if I hooked a jumper from the neutral
+>over to the ground screw on new 'three prong' grounding outlets.
+>What's wrong with my reasoning here?  
+
+May I respectfully suggest you NOT do this??  The ground is
+supposed to be a protective ground, and though what you suggest
+looks good on paper, it's dangerous to rely on the same wire for
+power and protection.  It'd never meet code, and if you now own
+the property and later sell it, you may end up with liabilities
+you don't want, and if you _don't_ now own it, well...
+
+There's a ""wiring"" FAQ that I think addresses this.  I believe
+an alternative is use of a GFCI, but I'm really not sure what
+current code allows in this area.  The GFCI senses alternate
+(unwanted) current paths, and doesn't rely on a specific
+protective ground wire, at least not beyond the GFCI in the
+protected circuit.  GFCI breakers are available (but expensive).
+
+",E,E
+"
+
+
+	I was kind of half watching Street Stories last night
+	and one of the segments was about this doctor in
+	S.F. who provides a service of investigating treatment
+	for various diseases. I'm pretty sure his name is
+	Dr. Mark Renniger (sp?) or close to that. 
+	Did anyone else watch this? I'd like to get his
+	correct name and address/phone number if possible.
+	Thanks.
+",E,M
+"
+
+In article <1rm2bn$kps@transfer.stratus.com> Randy_Faneuf@vos.stratus.com writes:
+>
+> Someone please help me. I am searching to find out (as many others may)
+>an absolute 'cure' to removing all detectable traces of marijuana from
+>a persons body. Is there a chemical or natural substance that can be
+>ingested or added to urine to make it undetectable in urine analysis.
+>If so where can these substances be found. 
+
+You could do what I do: never go near the stuff!  :)
+
+
+-- 
+:-  Michael A. Covington, Associate Research Scientist        :    *****
+:-  Artificial Intelligence Programs      mcovingt@ai.uga.edu :  *********
+:-  The University of Georgia              phone 706 542-0358 :   *  *  *
+:-  Athens, Georgia 30602-7415 U.S.A.     amateur radio N4TMI :  ** *** **  <><
+",E,M
+"
+
+The Casio 7500 lectric diary has a 3-wire serial interface with param
+setting like RS232, for which one get a magic but expensive cable to
+connect to a PC. Does anyone know the spec of this interface, e.g., it
+needs inverting and boosting from CMOS signals to match RS232 lines?
+-- 
+Chris Malcolm    cam@uk.ac.ed.aifh          +44 (0)31 650 3085
+Department of Artificial Intelligence,    Edinburgh University
+5 Forrest Hill, Edinburgh, EH1 2QL, UK                DoD #205
+",E,E
+"
+Nntp-Posting-Host: goyt.csc.liv.ac.uk
+
+
+>> telephone systems have the capability of a passband of 30hz to 4Khz.
+>> The reason they do not implement this is: It is not backward compatable
+>> to every telephone system.  In addition, the most effecent mix of 
+>> electrical effecency, and intelegability closly mateches a 300hz-3khz
+>> passband.
+>
+>Close, but no banana (to paraphrase Garfield)...
+>The reason 300-3300 Hz is used is that voice channels used to occupy
+>4kHz bands when multiplexed on a trunk line. Therefore, 300Hz at the
+>bottom, and 700Hz at the top of this band were filtered to minimise
+>interference with the next band.
+>
+>Nowadays, digital trunks have made this less relevant, but the phone
+>companies still see no reason to improve quality (especially for free!).
+>Therefore, digital ""chunk of a trunk"" segments still have a guaranteed
+>bandwidth of only 4kHz (so they can carry the equivalent of one analog
+>line) at the clock rate of a standard PCM T1 or E1 digital trunk.
+>
+>It's all historical...
+
+
+Here in the UK, the bandwidth restriction apparently only apply to 
+local lines.. ie those used by the average domestic client. Private
+lines which are run from the local exchange to the leasing client are 
+usually capable of a higher bandwidth if the exchange is digital.
+
+Don't quote me on that..... But I think I remember a BT engineer 
+saying something to that effect when I was doing some work
+shadowing a few years ago.
+
+Byeeeee !
+
+
+Chris ;-)
+
+  +====================================================================+
+  |Name : Mr Chris Smith       |     Twang on that 'ole guitar !       |
+  |Addrs: scst83@uk.ac.liv.csc |                                       |
+  |Uni  : Liverpool University |Quest: To build more and more hardware |
+  |Dgree: Computer Science     |                                       |
+  +====================================================================+
+
+ ""What ever the sun may be, it is certainly not a ball of flaming gas!""
+  -- D.H. Lawrence.
+
+ * All views expressed are my own, and reflect that of private thought. *
+",E,E
+"
+Message-ID: <1quci2INN506@fmsrl7.srl.ford.com>
+NNTP-Posting-Host: slee01.srl.ford.com
+X-Newsreader: Tin 1.1 PL5
+
+[ Article crossposted from comp.windows.ms ]
+[ Author was Kevin Routh ]
+[ Posted on 19 Apr 1993 12:35:55 GMT ]
+
+For your information:
+
+I hooked up my ImageWriter I to my COM1 serial port and used the C-Itoh
+8510 driver in Windows 3.1.  The cable I am using is a straight-thru
+cable connected to a Null Modem Adapter I got at Radio Shack (catalog
+#26-1496a) for $4.95.  It seems to work fine with both DOS and Windows.
+I used the following command in DOS
+
+	C:\DOS\mode COM1:9600,n,8,1,p
+
+and set up the port the same way in the Windows Ports setup.
+
+the Null Modem connections are as follows:
+
+	1	to	1
+	2	to	3
+	3	to	2
+	4	to	5
+	5	to	4
+	6+8	to	20
+	20	to	6+8
+	7	to	7
+
+I printed from several applications and all seems OK.  
+
+-- 
+Kevin C. Routh                     Internet:    krouth@slee01.srl.ford.com
+Ford Electronics                   IBMmail (PROFS):               USFMCTMF
+ELD IC Engineering
+17000 Rotunda Drive, B-121         Voice mail:              (313) 337-5136
+Dearborn, MI  48121-6010           Facsimile:               (313) 248-6244
+
+
+
+--
+Kevin C. Routh                     Internet:    krouth@slee01.srl.ford.com
+Ford Electronics                   IBMmail (PROFS):               USFMCTMF
+ELD IC Engineering
+17000 Rotunda Drive, B-121         Voice mail:              (313) 337-5136
+Dearborn, MI  48121-6010           Facsimile:               (313) 248-6244
+
+
+--
+Kevin C. Routh                     Internet:    krouth@slee01.srl.ford.com
+Ford Electronics                   IBMmail (PROFS):               USFMCTMF
+ELD IC Engineering
+17000 Rotunda Drive, B-121         Voice mail:              (313) 337-5136
+Dearborn, MI  48121-6010           Facsimile:               (313) 248-6244
+
+",E,E
+"
+
+In article <1993Apr27.182155.23426@oswego.Oswego.EDU>, Harry Matthews writes...
+> 
+> I've heard of community swimming pools refered to as PUBLIC URINALS so what
+> else is going on?
+
+    Do you swim nude in a public swimming pool?  :)  I doubt sperm can
+penetrate swimsuit material, assuming they aren't immediately dispersed
+by water currents.
+-- 
+Brian Tao:: taob@r-node.hub.org (r-Node BBS, 416-249-5366, FREE!)
+::::::::::: 90taobri@wave.scar.utoronto.ca (University of Toronto)
+",M,M
+"
+
+mcole@spock (COLE) writes:
+
+>I would like to experiment with the INTEL 8051 family.  Does anyone out  
+>there know of any good FTP sites that might have compiliers, assemblers,  
+>etc.?
+
+Try lyman.pppl.gov -- /pub/8051
+
+-- 
+Brian Day                                       bday@lambda.msfc.nasa.gov
+New Technology, Inc.                            (205) 461-4584
+Mission Software Development Division           Opinions are my own -
+",E,E
+"
+Distribution: world
+Message-ID: <1r2ach$8tc@lll-winken.llnl.gov>
+Reply-To: eliezer@physics.llnl.gov (David A Eliezer)
+NNTP-Posting-Host: physics.llnl.gov
+Keywords: PET, SPECT, resolution
+
+
+I have become involved in a project to further develop and 
+improve the performance of SPECT (Single Photon Emission
+Computerized Tomography) imaging.  We will eventually have
+to peddle this stuff somewhere, and so as I move this thing
+along, I would like to know --
+
+What is the current resolution of SPECT imaging?  What kinds
+of jobs is SPECT used for, specifically?  What kind of specific jobs
+could I hope
+that SPECT could be used for, if its resolution improved,
+say, to close to that of PET (Positron Emission Tomography)?
+And how much does a SPECT machine cost?  How much does a single
+SPECT image cost?  
+
+If anyone knows the answer to any or all of these questions, OR
+where I could find that answer, I would be very grateful, indeed.  
+Thanks in advance for any replies
+
+					Dave Eliezer
+					eliezer@physics.llnl.gov
+
+
+
+
+",E,M
+"
+
+
+Dear Netters
+I want to send EMG-signals from a running person to a computer. 
+Each signal is 4KHz wide and there is up to 30 of them on each
+running person. The signal is only to be sent over a few hundred 
+meters. It seems to me that the frequency intended for this use is
+about 150MHz and about 440MHz.
+To make the transmitters as light as possible I suppose it will be best 
+the to send the signals in an analog form. As this application is rather 
+specialized I do not expect to be able to buy the exact transmitter-
+units i need.
+On the other hand I imagine that I can buy the receiver somewhere. I 
+need a multichannel (up to 30 channels) receiver or 30 complete  
+receivers in some rack system where one can add as many receivers 
+as needed in the particular case.
+DO ANYBODY KNOW IF THERE IS EXISTING SUCH RECEIVER 
+SYSTEM ON THE MARKET?
+
+baldur@rsp.is     (TF3BP) (please respond by email rather than nn)
+",E,E
+"
+
+In article <1993Apr5.044140.1@vaxc.stevens-tech.edu>, u92_hwong@vaxc.stevens-tech.edu writes:
+> 
+> Hi there,
+> 
+> 	I have a very oily skin.  My problem is when I wash my face, it becomes
+> oily in half an hour.  Especially in the nose region.  Is this an illness?  How
+> can I prevent it from occuring in such short time?  Is there a cleanser out
+> there that will do a better job -- that is after cleaning, my face won't become
+> oily in such a short time.
+> 
+> 	Thank you for any suggestion.
+> 
+>if this is a disease, everyone should have it.  My skin has always been oily -
+i used to say ""if i were hot enough, you could fry an egg on my oily face"".
+i am now 50 yrs old and my skin looks younger (i'm told) than some people's
+skin at 30 (it's still oily).  i have only a very few tiny wrinkles.  Thank
+your lucky stars for that skin. 
+",E,M
+"
+
+In article <1993Apr15.100452.16793@csx.cciw.ca> u009@csx.cciw.ca (G. Stewart Beal) writes:
+>In article <120466@netnews.upenn.edu> jhaines@eniac.seas.upenn.edu (Jason Haines) writes:
+>>
+>>	I was wondering if people had any good uses for old
+>>256k SIMMs.  I have a bunch of them for the Apple Mac
+>>and I know lots of other people do to.  I have tried to
+>>sell them but have gotten NO interest.
+>>
+>>	So, if you have an inovative use (or want to buy
+>>some SIMMs  8-) ), I would be very interested in hearing
+>>about it.
+>>
+>One of the guys at work takes 20 of them, uses cyano-acrylate glue to make
+>five four-wide ""panels"" then constructs a box, with bottom, to use as a
+>pencil holder.
+>
+
+Or, if you've got some entreprenuerial (sp?) spirit, get a cheapy
+clear plastic box, mount the simm inside, and sell it as a 'Pet SIMM'!
+
+I'm sure there are *plenty* of suckers out there who would go
+for it!
+
+aaron
+
+
+",E,E
+"
+
+In article <80412@cup.portal.com> Mark Robert Thorson, mmm@cup.portal.com
+writes:
+> Colonics were a health fad of the 19th century, which persists to this
+day.
+> Except for certain medical conditions, there is no reason to do this.
+> Certainly no normal person should do this.
+
+In article <1993Apr28.023749.9259@informix.com> Robert Hartman,
+hartman@informix.com writes:
+> Also, insofar as it doesn't conform to the accepted medical presumption
+> that it just doesn't matter what you eat, and that we can think of the
+> GI tract as a black box in which nothing ever goes wrong (except for
+> maybe cancer and ulcers), the righteous will no doubt jump on that too.
+
+Recently, I completed a 2 week juice fast (with 3 days of water) and had
+two colonics as part of it.  My motivation was primarily spiritual, to
+de-toxify from all the crap I've been putting in my body (not like thats
+enough to clean it all out but it did have an effect).  Personaly, I
+didn't find it an uncomfortable experience (the colonic), lost about
+15lbs of beer belly (which hasn't come back over the last month), and
+feel great.  One of the things that prompted me to get the colonic was
+seeing my 90 year old grandmother chair ridden from colitis (?) from
+years of indulgence.
+
+Not everything that goes in comes out, and personaly I don't mind giving
+my body a hand once in a while.
+
+Just my experience,
+
+George Paap
+
+I am my beliefs.
+(which almost certainly are not those of my employer)
+",M,M
+"
+Message-ID: <ltijudINNj0e@saltillo.cs.utexas.edu>
+References: <noringC5yGw1.F1M@netcom.com>
+NNTP-Posting-Host: saltillo.cs.utexas.edu
+
+-*----
+In article <noringC5yGw1.F1M@netcom.com> noring@netcom.com (Jon Noring) writes:
+> ...  Of course, they are working on the theory that candida
+> overbloom with penetration into mucus membrane tissue with
+> associated ""mild"" inflammatory response can and does occur 
+> in a large number of people.  If you reject this ""yeast 
+> hypothesis"", then I'd guess you'd view this research as one
+> more wasteful and quixotic endeavor.  Stay tuned.
+
+I do not have enough medical expertise to have much of an opinion
+one way or another on hidden candida infections.  I can
+understand the skepticism of those who see this associated with
+various general kinds of symptoms, while there is a lack of solid
+demonstration that this happens and causes such general symptoms.
+(To understand this skepticism, one only needs to know of past
+failures that shared these characteristics with the notion of
+hidden candida infection.  There have been quite a few, and the
+proponents of all thought that the skeptics were overly skeptical.)
+
+On the other hand, I am happy to read that some people are
+sufficiently interested in this possibility, spurred by
+suggestive clinical experience, to research it further.  The
+doubters may be surprised.  (It has happened before.)
+
+I realize that admitting ignorance in the face of ignorance may
+not endear me to those who are so sure they know one way or
+another.  (And, indeed, perhaps some of them do know -- I am the
+one who is currently ignorant.)  But I find this the most honest
+route, and so I am happy with it.
+
+Russell
+",M,M
+"
+
+John Ackermann x 2966 (jra@law7.DaytonOH.NCR.COM) wrote:
+: My next project is to come up with an IF/detector module for fast -- 112
+: to 250 kB/sec -- packet radio use.  No fancy modulation scheme, just
+: wide FSK for use at 902 or 1296 MHz.
+
+: I'm a bit familiar with the Motorola 3362 chip, but I wonder if there
+: are newer designs that might work at higher input frequencies.
+
+: My goal is to come up with an inexpensive design for a receiver ""back
+: end"" with IF input on one end and an FSK demondulator on the other.  I'm
+: particularly interested in ways to use a higher IF than 10.7 -- do any
+: current chips work up to, say 150MHz with internal downconversion so a
+: normal IF filter can be used?
+
+: Any suggestions?
+
+: John
+
+  What you describe is very close to what I built and described in the
+10th ARRL Computer Network Conference proceedings.
+
+  I built 10 watt FSK transceivers at 904 MHz.  They are essentially
+double conversion transverters with digital mod and demod at 29 MHz.
+The receiver uses the MC13055 which is the same FSK receiver chip I used
+previouslyu in the 2 Mbps 10 GHz data link I first published in Ham
+Radio and which is now also in the ARRL handbook.
+
+  The MC3356, which includes a VHF converter section, could also be used
+at these speeds.  There is a newer and perhaps slightly improved design
+of this (the MC13056 if I remember rightly).
+
+  While using this would have let me reduce the ""external"" IF count on
+receive, it didn't really offer all that much help on transmit so I
+didn't bother with it.
+
+  The radios I built were first designed and built for 512 kbps in a 2
+MHz channel but later reduced to half that.  These 256 kbps radios
+actually have done quite well in across-the-bench tests at 384 kbps and
+speed is pretty much a function of filter design.  Handling the data
+stream is another matter entirely.
+
+  Some of the existing radios are currently deployed on hilltops in a
+""beacon"" test mode.  While there is not yet end-end two-way data flow
+due to lack of resources to debug software for the digital hardware (MIO
+also shown in the CNC proceedings), data is perfect copy at n6gn.  Even
+though the data clock is currently at about half speed, the a 2+ kbytes
+of the test text (chapter 55 of Isaiah) takes only a little over 1/8 of
+a second.
+
+  I've been hoping that someone would get interested enough to step in
+and get involved in writing code to make the whole thing usable (Borland
+IDE environment with remote debugging possible as mentioned in the
+proceedings) but to date a couple of us have been on our own and running
+low on resources of time, money and energy.
+
+  If anyone in the SF bay area wants to check it out there is also a CW
+ID after the text on the mark side at 904.740 MHz from beacons on Sonoma
+Mtn and Black Mtn (overlooking Si valley).  The antenna is horizontally
+polarized.
+
+  I guess in retrospect my suggestions are that this is a fairly costly
+approach if the radios are intended for users rather than backbones and
+you might want to carefully consider your ""target"".  If you can't
+arrange your paths such that you have complete line-of-sight I think
+you'll want to address the inter-symbol-interference caused by
+multipath and probably link C/N budgets if paths are very far from LOS.
+For more details, see the 10th CNC.  I'm currently working on a spread
+spectrum, direct conversion design to address some of these problems.
+I'd be glad to help as I can with any design problems.
+
+73
+Glenn Elmore n6gn
+
+N6GN @ K3MC      
+amateur IP:	glenn@SantaRosa.ampr.org
+Internet:	glenne@sr.hp.com 
+
+
+",E,E
+"
+
+     I posted about a ""pulse of (relaxation) electricity"".  I now think
+it more like a pulse of ""relaxation"" or comfort than a pulse of
+electricity.  It is what you feel if you are overwhelmed by a feeling
+of comfort, such as seeing or thinking about something beautiful.
+
+     Another thing.  When you sleep, you lie down facing up, with your
+palms aside of you and facing down on the surface of the bed.  Then you
+relax, and there start involuntary nerve firings inside your flesh.  So,
+you feel a ""shiver"" below the surface of the skin (not heart-beat).
+Then this shiver increases, and comes up to your head, and the roam you
+hear loudens.  (Note that you always hear a high-pitch when you lie down
+in bed; this is just the noise of your blood running in your ear.)  This
+roam is different from the high pitch, but follows the shiver of your
+body.
+
+     ""Shiver"" is not the word.  It may be called a mild vibration or quake.
+What is this shiver and roam?  Can I use this to induce out-of-body
+experience?
+
+					Daniel Chung (Mr.), U.S.A.
+",E,M
+"
+
+
+I bought this chip from Suncoast Technology and tried to build their
+dtmf decoder circuit.  But it's not working...
+
+If anyone has the pinouts and possibly the voltage specs I'd sure
+appreciated it.  If someone could fax, email, or snail mail a copy
+of the spec sheet for this chip that would be even better. :)
+
+Please email me if you can help.  
+
+Thanks in advance,
+-- 
+Mont Pierce
+
++-------------------------------------------------------------------------+
+| Ham Call: KM6WT             Internet:  mont@netcom.com                  |
+|    bands: 80/40/20/15/10/2  IBM vnet:  mont@vnet.ibm.com                |
+|    modes: cw,ssb,fm                                                     |
++-------------------------------------------------------------------------+
+",E,E
+"
+
+In article <1993Apr22.143929.26131@midway.uchicago.edu> jacquier@gsbux1.uchicago.edu (Eric Jacquier ) writes:
+>
+>I am interested in trying this ""desensitization"" (?) method
+>against hay fever.
+>What is the state of affairs about this. I went to a doctor and
+>paid $85 for a 10 minute interview + 3 scratches, leading to the
+>diagnostic that I am allergic to (June and Timothy) grass.
+>I believe this. From now on it looks like 2 shots per week for
+>6 months followed by 1 shot per month or so. Each shot costs
+>$20. Talking about soaring costs and the Health care system, I would
+>call that a racket. We are not talking about rare Amazonian grasses
+>here, but the garbage which grows behind the doctor's office.
+>Apart from this issue, I was somewhat disappointed to find out
+>that you have to keep getting the shots forever. Is that right?
+>Thanks for information.
+>
+>
+Go to your public library and get the February, 1988 issue of Consumer
+Reports.  An article on allergy shots begins on page 96.  This article
+is MUST reading for anyone contemplating allergy shots.
+",M,M
+"
+Message-ID: <1qkf2hINN65c@rave.larc.nasa.gov>
+References: <120466@netnews.upenn.edu> <1993Apr15.100452.16793@csx.cciw.ca> <C5JCH1.FrC@ulowell.ulowell.edu>
+NNTP-Posting-Host: grissom.larc.nasa.gov
+
+In article <C5JCH1.FrC@ulowell.ulowell.edu> wex@cs.ulowell.edu writes:
+>In article <1993Apr15.100452.16793@csx.cciw.ca>, u009@csx.cciw.ca (G. Stewart Beal) writes:
+>|> >	I was wondering if people had any good uses for old
+>|> >256k SIMMs.  I have a bunch of them for the Apple Mac
+>|> >and I know lots of other people do to.  I have tried to
+>|> >sell them but have gotten NO interest.
+>
+>We use them as Christmas tree decorations, the cat doesn't eat these.
+
+Yes, but they don't look appropriate.  I much prefer used 833 tubes on
+my tree.
+--scott
+",E,E
+"
+
+",E,E
+"
+
+I've got the same problem; I can't dig up any info on the jumper settings
+on the hd 3.5"" drives.
+
+Can anyone recommend a reference book(s) on the subject, rather than a
+""quick fix"" type answer??  I was going to start hooking up things and
+logging the results, but the prospect of a ten second smoke test deters
+me...
+
+Thanks, Kirk Cowen.
+
+-- Via DLG Pro v0.995
+
+",E,E
+"
+Sender: news@ntuix.ntu.ac.sg (USENET News System)
+Nntp-Posting-Host: v9001.ntu.ac.sg
+Organization: Nanyang Technological University - Singapore
+Date: Tue, 20 Apr 1993 09:54:33 GMT
+
+
+currently I am using the 8051 microcontroller with external eprom..
+
+In order to drive the dc motor (with direction) I use the Pulse width modultion 
+
+thru software control(Assembly language programming). However I am afraid that
+
+they will be overheads and thus alter the pulse timing. My question is 
+
+is the software pwm control reliable?. I understand that port 0 is a latch
+
+and so I vary the duty cycle by setting it high first and at the desire 
+
+duty cycle then I set low..? Any improments ?
+ 
+
+ 
+",E,E
+"
+
+In article <uabdpo.dpo.uab.edu-230493173928@spam.dom.uab.edu> uabdpo.dpo.uab.edu!gila005 (Stephen Holland) writes:
+>In article <1993Apr23.211108.26887@midway.uchicago.edu>,
+>bmdelane@quads.uchicago.edu (brian manning delaney) wrote:
+>> 
+>> One thing that I haven't seen in this thread is a discussion of the
+>> relation between IBD inflammation and the profile of ingested fatty
+>> acids (FAs).
+>> [....]
+
+> [....]
+>even write a letter to the editor - it is a good point.  By the way,
+>the abbreviation EPA is not in general use, so I do not know what 
+>fatty acid you are speaking about.
+
+Sorry -- I mean eicosapentaenoic acid.
+
+>And to Brian an U of C ---  There is a physician named Stephen Hanauer
+>there who is a recognized expert in the treatment of IBD.  You might 
+>give him a call.
+
+Coincidentaly, just yesterday I was (finally) referred from the clinic
+to Hanauer. I'm seeing him on May 24. I'll report what he says about
+this question.
+
+>the treatment of IBD.  If you call please say hello to him from me,
+>I was looking at U of C for a position, and perhaps still am.
+
+Will do.
+
+-Brian Delaney
+
+",M,M
+"
+
+After I have produced a schematic with PADS-LOGIC, how do I import it into 
+PADS-PCB to create a PCB pattern?  The only way I've gotten it to work is
+to output a FutureNet netlist, and then import this into PADS-PCB.  Is there
+another way of doing this?  I didn't see any information in the instructions
+provided, but I might have missed something.  Any suggestions would be 
+greatly appreciated.  Thanks!
+
+
+ _I_______________________________________________________________________I_
+(_@_)                                                                   (_@_)
+|   |   Raymond Yeung               Internet: Nimbus@uiuc.edu           |   |
+|   |                                         rky57514@uxa.cso.uiuc.edu |   |
+|   |   EE student at the                                               |   |
+|   |   University of Illinois    CompuServe: 70700,1011                |   |
+|   |   at Urbana-Champaign                                             |   |
+(___)-------------------------------------------------------------------(___)
+  I                                                                       I
+",E,E
+"
+
+In article <1993Apr14.172145.27458@ecsvax.uncecs.edu>,
+crisp@ecsvax.uncecs.edu (Russ Crisp) wrote:
+> 
+> Hello
+> I'm considering modernizing some old wiring in my home, and
+> I need a little advice on outlet wiring.  Several outlets
+> are the old 'two prong' type, without the ground.  Naturally,
+> the wire feeding these outlets is 12/2, WITHOUT the ground
+> wire.  I noticed at the fusebox that some circuits have the
+> 12/2 with ground, and that on these circuits, the ground
+> wire was tied to the same bus as the neutral (white) wire.
+> 
+> SO..  Here's my question.  It seems to me that I'd have the
+> same electrical circuit if I hooked the neutral[D[D[D[D[D[D[D[D[D[D[Da jumper from the neutral
+> over to the ground screw on new 'three prong' grounding outlets.
+> What's wrong with my reasoning here?  
+
+First, it will not pass a National Electrical code inspection.
+Secondly, The neutral wire is current carrying and the ground wire
+shouldn't be, or only during a fault condition.
+
+The reason the neutral and ground are tied together in the panel is the
+tranformer on the power pole has a grounded center-tap secondary, with the
+grounded center-tap the neutral.  This gives 120v to neutral(ground) from
+each side of the transformer and 240v across the transformer.  So in effect
+the neutral and ground should be at the same potential. 
+
+------------------------------------------------------------------
+Mark E. Kilpela              email mkilpela@mtu.edu
+Michigan Technological University
+School of Technology
+------------------------------------------------------------------
+",E,E
+"
+
+In article <1quqlgINN83q@im4u.cs.utexas.edu> turpin@cs.utexas.edu (Russell Turpin) writes:
+> My definition is this: Science is the investigation of the empirical
+>that avoids mistakes in reasoning and methodology discovered from previous
+>work.
+
+Reading this definition, I wonder: when should you recognize something
+as being a ""mistake""? It seems to me, that proponents of pseudo-sciences
+might have their own ideas of what constitutes a ""mistake"" and which
+discoveries of such previous mistakes they accept.
+
+-- 
+Kristoffer Eriksson, Peridot Konsult AB, Stallgatan 2, S-702 26 Oerebro, Sweden
+Phone: +46 19-33 13 00  !  e-mail: ske@pkmab.se
+Fax:   +46 19-33 13 30  !  or ...!mail.swip.net!kullmar!pkmab!ske
+",E,M
+"
+
+In article <1993Apr16.105738.20864@hippo.ru.ac.za> webb@itu1 (90-29265  Webber  AH) writes:
+> ...stuff deleted...
+>
+>I was also sceptical about the amps being built in the far-east
+>  or where-ever.  But if you look in the amp and see what components
+>  they use and how it was designed, you can easily see why the
+>  amplifiers sound so brilliant.
+
+Good point...also, I wouldn't be surprised that the components
+they use off-shore are of inferior quality.  As long as it was
+properly designed and robust, premium components are used, it
+shouldn't matter where it is assembled.
+
+>I cannot see why people say the amplifier won't last - not with
+>  those quality components inside.  Sure the amp runs very fairly
+>  hot - but that's how you get an amp to sound incredibly good.
+
+An amp that runs hot has no bearing on how it's gonna sound.
+The amp you have probably is running Class-A the whole day.
+
+Actually, I'd be wary of excessively hot amps, 'cauz even though
+the components inside may be rated to run that way, excessive 
+heat will dramatically shorten the life of *any* electronic component
+regardless of quality.  In fact, an amp that does run hot to the touch is
+because either the engineer or manufacturer of that amp wanted
+to skimp on heatsinking or cooling to save costs!  Hmmmmm....
+
+aaron
+
+.
+",E,E
+"
+Nntp-Posting-Host: tw100.eng.cam.ac.uk
+
+lancer@oconnor.WPI.EDU (Stephe Lewis Foskett) writes:
+
+
+>I'm doing sound for a couple of bands around here and we need Direct
+>Input boxes for the keyboards.  These are the little boxes that take a
+>line level out of the keyboard and transform it into low-Z for the run
+>to the mixer.  Sadly they cost like $50 (or more) each and I'm going
+
+This is indeed one function, but more sophisticated ones do level control
+and ground-lift (separating the keyboard and mixer earths) aswell.
+
+>to need like 5 or 10 of them!  I looked inside one (belonging to
+>another band) and it looks like just a transformer.  Does anyone have
+
+Simple ones are just that - a transformer. A decent quality audio trans-
+former will cost most of that $50. They are wired thus...
+
+
+       HOT   --------------|  |----------------- HOT
+                           )||(
+     Input from            )||(                Balanced out to mixer
+     Keyboard              )||(
+                           |  |----------------- COLD
+                           |
+       GND   --------------|-------------------- GND
+
+The ground-lift switch disconnects the GND line from the mixer. The
+transformer ratio depends on the precise application, but around 10:1
+turns ratio may be a good place to start.
+
+Christopher
+--
+ ==============================================================================
+  Christopher Hicks    |      Paradise is a Linear Gaussian World
+  cmh@uk.ac.cam.eng    |    (also reported to taste hot and sweaty)
+ ==============================================================================
+",E,E
+"
+
+Here's a question for all you electrical engineers out there:
+
+  I bought an 'Infrared detector module' at Radio Shack for $3.95 - it is a 
+little gizmo that senses infrared remotes and produces an output signal. Then
+I hooked the output through a transistor to an infrared LED. The circuit works
+like a minature remote control extender in my car - All remote commands are
+relayed to the CD player hidden in the glove compartment. It works fine with
+my Denon CD player, but when I tried to build the same circuit for a friend's
+VCR, it didn't work.
+  The circuit appears to work for other remotes (you can see infrared with a
+Sony CCD camcorder) but coincidentally it only seems to work for my CD
+player...
+
+	Any advice would be appreciated....
+        Brian
+
+---
+UBSILER @ MSUVX1.MEMST.EDU
+
+",E,E
+"
+
+
+--
+
+I would like to be able to detect the angular position (low accuracy) of an
+IR emitting source at a distance of about 100 meters (more is better) in
+daylight.  The IR source could be emitting a signature; I'm leaning toward
+30 KHz square wave with 50% duty cycle.
+
+I am considering the use of a quadrant detector from Centronic Inc. to give
+information to a pan/tilt head to point the sensor and thus determine the
+angles.  For the source I am considering wazing the heck out of an IR LED(s),
+possibly an Optek OP290 or Motorola MLED81.  Wazing would mean at least 1 Amp
+current pulses.  At this current the duty cycle of the LED drops to 10% and I
+would need to cycle five of them in turn to get the 50% required.
+
+Has anyone done something like this?
+
+Stan Burton (DND/CRAD/DRES/DTD/MSS/AGCG)                 sburton@dres.dnd.ca
+(403) 544-4737     DRE Suffield, Box 4000, Medicine Hat, AB, Canada, T1A 8K6
+",E,E
+"
+
+spp@zabriskie.berkeley.edu (Steve Pope) writes:
+
+>In article <1qg98sINNokf@sheoak.ucnv.edu.au> jeff@redgum.ucnv.edu.au (j. pethybridge) writes:
+>>	Hello again,
+>> I asked this a year ago, but i am still looking.
+>> I am getting sick of having to use a HC373 
+
+>Jeff, just use the damned 373.   Sure, there are oddball
+>latched memory chips, but do you really want to use them?
+
+>Sorry if I'm pedantic but: design your circuit using
+>reasonably available parts, and move on to more important
+>problems.
+
+We're looking at a series of chips by WSI, the PSD3xx series. They have
+_mega_ address decoding logic on them, various ROM sizes (upto 1Mbit),
+various RAM sizes (upto 16 K), and 19 I/O ports which can be chip select
+lines, I/O or the buffered address lines.
+
+Cute chip, 44 pin PLCC package.
+
+Second sourcing may be a problem though :-(
+
+
+Bryan Ryan, VK3TKX
+Melbourne, Australia
+bryan@philips.oz.au
+
+",E,E
+"
+
+In article <1qlg9o$d7q@sequoia.ccsd.uts.EDU.AU>  writes:
+> 
+> 
+> I really don't know where to post this question so I figured that
+> this board would be most appropriate.
+> I was wondering about those massive concrete cylinders that
+> are ever present at nuclear poer sites. They look like cylinders
+> that have been pinched in the middle. Does anybody know what the
+> actual purpose of those things are?. I hear that they're called
+> 'Cooling Towers' but what the heck do they cool?
+> I hope someone can help 
+> 
+
+This is definitely the wrong newsgroup for this, but never mind.
+Any machine powered by heat (motor, steam- or gasturbine, steamengine,  
+thermoelement,etc) work the better, the bigger the temperature difference  
+between input and output is. Because You never get all thermic energy out of  
+the powering medium (steam, burning gaz, etc), You have to eliminate the rest  
+of the energy to keep the efficency high. A thermal electric power plant (coal,  
+oil or atomic power) works just the same way. You heat water (steam) to power  
+the turbine and generators. Because You don't get the whole energy out of the  
+steam (efficency is never 100%) You have to cool down this steam again by  
+something else. Most power plants use cooling towers for this purpose (some  
+type of mega-refrigerator...). Others use water of a river (ecologically not  
+unobjectionable). Got it ?
+
+Cheers   Robert  (HB9NBY)
+--
+Robert Ganter			/------------\
+Universitaet Basel		| I am a fan |
+Institut fuer Informatik	| of my plan |
+Basel/Switzerland		\------------/
+ganter@ifi.unibas.ch
+amateurradio: HB9NBY	packet: HB9NBY@HB9EAS.CHE.EU
+",E,E
+"
+
+Sounds like the picture tube lost vacuum.  This would cause the filament
+to ignite and could actually turn the tube from a vacuum to a pressure
+vessel, followed by an explosion when the neck assembly (mostly likely
+cracked to begin with) blows off.  During the whole sequence of events,
+the other circuits may continue functioning, which accounts for not
+losing sound.
+",E,E
+"
+
+AllMartin EmdeDMM Advice Needed
+
+ME>From: mce5921@bcstec.ca.boeing.com (Martin Emde)
+ME>Organization: Boeing
+ME> 
+ME>I an currely in the market for a DMM and recently saw an add
+ME>for a Kelvin 94 ($199).  Does anyone own one of these or some
+ME>other brand that they are extremely happy with.  How do the 
+ME>small name brands compare with the Fluke and Beckman brands?
+ME>I am willing to spend ~$200 for one.
+ME> 
+ME>Any help is greatly appreciated. (please email)
+ME> 
+ME>-Martin
+
+If you are going to use one where it counts (eg:aviation, space scuttle, 
+etc) then I suggest you go and buy a Fluke (never seen a Beckman), however 
+for every other use you can buy a cheapie. I have a metex which is some 
+made up name, as I have seen the same DMM with other brand names on it, I 
+bought it about 4 yrs ago for Aus$125.00 (convert that to US and you see 
+that it's definetly a cheapie.) So far it has proved to be accurate, taken 
+moderate abuse, and has many features on it (CAP, FREQ,Transistor check, 
+etc). I am very happy with it and would definetly not buy a fluke just for 
+the name. Hope this helps.
+
+Cheers 
+Peter T.
+
+",E,E
+"
+
+Martin John Gregory (mgregory@flash.pax.tpa.com.au) wrote:
+: I've started to look at some devices doing serial data transmission
+: over fairly decent distances in fairly noisy environments, and have
+: seen a variety of schemes for protecting the RS232 transceivers (and
+: the rest of the circuit) from transients on the serial lines.  I'm
+: left wondering what is the best way of doing this?  How necessary is
+: it?
+: [stuff deleted]
+: What is the wisdom on this out there?
+: 
+: Ta,
+: 
+: Martin.
+: 
+: 
+From what I know, protection is necessary, esp. if you plan to route
+the cables into an unknown environment (out of your control). Things
+like accidental shorts between the signal lines and power cables, or
+even lightning strikes are very likely and I don't think you like to see
+the sight of your computer going up in smoke! [Even ethernet cards are
+protected. I've looked at the one in my PC and the connector is
+protected by a gas discharge tube!]
+
+{But if you plan to use the serial cables for internal routings (i.e. in
+controlled environments), it should be reasonably safe not to have
+them.}
+
+Suggestion: look in the RS data book. They have several RS232
+transceivers that have overvoltage protection. Among them include the
+LT1080, LT1081 and MAX250 and MAX251. The Maxims are suppose to be
+electrically isolated ones but still need opto-isolators to work (don't
+ask me why. I've never used them before.
+
+Another alternative is an RS232 surge protector. Two are listed in the
+RS catalogue. If you need additional info (i.e. stock nos.), just e-mail
+me.
+
+Soh Kam Yung,
+engp2254@nusunix1.nus.sg
+",E,E
+"
+Distribution: world
+Message-ID: <1qupr1$1v8@sdl.Warren.MENTORG.COM>
+References: <1qub4mINN7r3@rave.larc.nasa.gov>
+Reply-To: garyg@warren.mentorg.com
+NNTP-Posting-Host: garyg.warren.mentorg.com
+
+In article 1qub4mINN7r3@rave.larc.nasa.gov, kludge@grissom.larc.nasa.gov (Scott Dorsey) writes:
+>In article <20756.2bd16dea@ecs.umass.edu> alee@ecs.umass.edu writes:
+>>
+>>Greetings!
+>>      
+>>        Situation:  I have a phone jack mounted on a wall.  I don't
+>>                    know the number of the line.  And I don't want
+>>                    to call up the operator to place a trace on it.
+>>
+>>        Question:   Is there a certain device out there that I can
+>>                    use to find out the number to the line?
+>
+>
+>Call a friend long distance, collect.  Ask to speak with yourself.  When
+>the operator asks for you, you won't be there, so ask the operator to leave
+>your number.  She'll read it out in the clear.
+>--scott
+
+Even easier, my area supports 311.  Dial this and a recording recites your number.
+Phone techs use it to verify an installed line.
+---
+			Gary Gendel
+Vice President:				Current consulting assignment:
+Genashor Corp				Mentor Graphics Corporation
+9 Piney Woods Drive			15 Independence Boulevard
+Belle Mead, NJ 08502			Warren, NJ 07059
+
+phone:	(908) 281-0164			phone:	(908) 604-0883
+fax:	(908) 281-9607			email:	garyg@warren.mentorg.com
+
+
+
+",E,E
+"
+Message-ID: <1qrlea$jk6@usenet.INS.CWRU.Edu>
+References: <Yfnutuy00WB=02e1hU@andrew.cmu.edu> <nagleC5n17r.3Fn@netcom.com> <C5nJqL.42F@panix.com>
+Reply-To: wb8foz@skybridge.scl.cwru.edu (David Lesher)
+NNTP-Posting-Host: skybridge.scl.cwru.edu
+
+Others said:
+# >       Actually, fossil fuel plants run hotter than the usual 
+# >boiling-water reactor nuclear plants.  (There's a gripe in the industry
+# >that nuclear power uses 1900 vintage steam technology).  So it's
+# >more important in nuclear plants to get the cold end of the system
+# >as cold as possible.  Hence big cooling towers.  
+
+When the utility gave up on that Cinnci, OH plant (Zimmer?) and
+announced they were going to convert it to a coal-fired scheme, the
+turbines were already in place, and they were the low-temp type. So the
+plan was: Install a SECOND set of high temp turbines, and feed the
+low-temp ones with the output of the new ones.
+
+Never saw anything more on this. Did they ever really build it?
+--
+A host is a host from coast to coast..wb8foz@skybridge.scl.cwru.edu
+& no one will talk to a host that's close............(301) 56-LINUX
+Unless the host (that isn't close).........................pob 1433
+is busy, hung or dead....................................20915-1433
+",E,E
+"
+X-Newsreader: TIN [version 1.1.4 PL6]
+
+william burchill (williamb@ee.ubc.ca) wrote:
+: 	Does anybody out there know how the hand held breathalyzer used
+: by our police works?  I would like to hear about this and the more
+: general problem of detecting smells by machine.
+: 
+: Thanks, William.
+: 
+: williamb@ee.ubc.ca
+: 
+
+From what I have read about these little gadgets, it works on
+a electrochemical galvanic principle. The sensing unit has a
+chemical matrix which produces an electrical voltage proportional
+to the amount of chemical compound it is designed for ... in this case
+I believe it is the Hydroxyl group???  
+
+I have also heard -  not tested :-)  - since common gasoline is also
+a member of this Hydroxyl group, it will also cause a failing breathalizer
+failure! Next time you get stopped for DUI, say you just siphoned gas from
+your neighbors car (you know..... the Oklahoma credit card) and chances
+are you won't get a DUI ticket!!!!
+
+
+ 
+Jerry Long
+
+long@spk.hp.com
+****************************************
+Disclaimer.... Opinions are my own and
+do NOT reflect those of my employer.  
+**************************************** 
+",E,E
+"
+Sender: news@cs.yale.edu (Usenet News)
+Nntp-Posting-Host: wcsub.ctstateu.edu
+Organization: Yale University, Department of Computer Science, New Haven, CT
+References: <jfsenior.734549674@unix1.tcd.ie> <gyJX2B2w165w@inqmind.bison.mb.ca>
+Date: Fri, 16 Apr 1993 05:31:32 GMT
+
+In article <gyJX2B2w165w@inqmind.bison.mb.ca>, dino@inqmind.bison.mb.ca (Tony stewart) writes:
+> jfsenior@unix1.tcd.ie (John Senior) writes:
+> 
+>> Recently, I discovered that it was possible to receive cable
+>> tv through the telescopic aerial on the top of my tv.
+>> The nearer this aerial is moved to the cable (which I am not
+>> connected to) which runs under the eaves of the house the better
+>> the signal.  Now, I was wondering how can I improve the signal?
+>> Is it possible to improve the signal significantly? (some channels
+> 
+> CABLE EGRESS or emanations if you will are being radiated at free space 
+> impedance from cables that may be harmonically realated to certain 
+> channels and therfore the standing waves at 1/4 wave will transfer 
+> efficiently. Also your antenna (a loose monopole) is also harmonically 
+> tuned and will be more efficient at 1/2 wavelength multiples.
+> 
+> Your best bet for this research is to use a tuned YAGI antenna to get the 
+> gain you need. (Std TV roof antenna type) The dipoles should be parallel 
+> to the radiating cable. A pre-amp doesn't help significantly in my 
+> experience in most cases.
+> 
+> dino@inqmind.bison.mb.ca
+> The Inquiring Mind BBS, Winnipeg, Manitoba  204 488-1607
+
+Wow, what a concept!  Does anybody want to speculate on how this
+""non-connection"" would fit into the theft of cable services laws?
+It seems to me that unless this case is specifically written into
+the legislation that the cable company would not have a leg to
+stand upon in court.
+
+Does anybody out there have any specific legal knowledge on this?
+
+Jim Ritterbusch
+ritterbus001@wcsu.ctstateu.edu    - or - ne22@radiomail.net  (temp, rf)
+There is an art, the Guide says, or rather a knack to flying.  The
+knack lies in learning how to throw yourself at the ground and miss.
+
+",E,E
+"
+Distribution: world
+Message-ID: <1qmuge$7mt@male.EBay.Sun.COM>
+Reply-To: jimj@contractor.EBay.Sun.COM (Jim Jones)
+NNTP-Posting-Host: contractor.ebay.sun.com
+
+The subject-line says it:  every time I run a fever, I get an amazing
+rosy rash over my torso and arms.  Fortunately, it doesn't itch.
+
+The rash  always comes on the day after the
+fever breaks and no matter what the illness was:  cold, flu, whatever.
+It started happening about four years ago after I moved to my current
+town, although I don't know if that has anything to do with anything.
+
+Severity and persistance of the rash seems to vary with the fever:
+a severe or long-lasting fever brings a long-lasting rash.  A mild fever
+seems to bring rashes that go away faster.  
+
+Anybody know what might be causing this?  It's no more than an 
+embarassment, but I'd be curious to know what's going on.  Am I carrying
+some kind of fever-resistant bug that goes wild when fever knocks out
+its competition?
+
+Jim Jones
+",E,M
+"
+
+In article <1993Apr20.173742.99726@ns1.cc.lehigh.edu> hl00@ns1.cc.lehigh.edu (HOU-SHENG LIN) writes:
+>Well, I'm not too sure if this would be the right place to post this, but
+>anyway, here goes:  I was just noticing that some of the current bubblejet
+>printers offers up to 360x360 resolution while a lot of lower end laser
+>printers only offer 300x300.  However, the laser printers still seems to be
+>significantly pricier than the bubblejets... how is this?  Or am I missing
+>something about the resolution thing?
+
+Bubblejets often splatter a little bit, whereas LaserJets (given half-way decent
+toner, like HP's ""Microfine"" stuff) don't.  Both produce very good output,
+but you don't have to look too closely at the two to tell that LaserJet
+output is definitely superior.  
+
+On the other hand, LaserJets which haven't been maintained properly and use
+the cheapest toner the owner could find often produce awful output, much
+worse than a bubblejet. :-)
+
+One other thing... there are bubblejets, and then there are BubbleJets.
+There are a few bubblejets out there that produce rather mediocre output
+(such as HP's dinky little BubbleJet), whereas most produce really good
+looking output (such as HP's DeskJets).  IBM and Canon both produce some of
+the really good style bubblejets.
+
+					---Joel Kolstad
+
+P.S. -- If you're in the market for a portable bublejet printer, I can
+highly recommend the HP Portable DeskJet, although I've heard the portable
+Canons are good too (I needed PCL support, myself).  With the DeskJet
+Portable, you even get an undocumented PCMCIA card slot!
+",E,E
+"
+X-Maildoor: WaflineMail 1.00r
+
+{Michael Fulbright} said
+   ""Analog switches/Balanced""
+      to <All> on 04-15-93  01:08
+ MF> I am trying to build a synchronous demodulator and I've hit a snag.
+ MF> In my application I want to be able to change the gain of an
+ MF> op amp amplifier from 1 to -1, controlable via a digital input.
+ MF> The most obvious way I've come up with is to use analog switches
+ MF> to adjust the gain of the op amp. The only analog switch I have
+ MF> experience with it the 4066. Unfortunately I want to switch an
+ MF> AC signal which goes from about -5V to 5V, and the 4066 is only
+ MF> for positive signals.
+
+    How about using a 4053 it has a seperate ground for the
+    analog outputs.  It would get you 3 bits.
+
+ MF> Another part which caught my eye was the Analog Devices AD630. This
+ MF> is a balanced demodulator which appears to fill exactly the need I
+ MF> have. The data sheet was somewhat skimpy on application notes. Could
+ MF> someone comment on using this chip for the following application?
+
+    Or how about a multiplying D/A convertor?  This is
+    essentiallty what you are makeing.
+
+
+                Stephen Cyberman@Toz.Buffalo.NY.US
+             Mangled on Fri  04-16-1993  at 13:36:11
+
+... Catch the Blue Wave!
+---
+ * Blue Wave/QWK v2.12 *
+                          
+",E,E
+"
+
+Used, good condition:
+Hitachi V-422 40MHz Dual-Channel Portable Analog Oscilliscope
+	o 1mV/div
+	o DC offset
+	o alternate magnification (10x magnified & non-magnified waveform)
+	o VERT mode trigger
+	o TV sync separation circuit
+
+List price	$910.00 (...and the price Fry's electronics just quoted!) :-(
+Sells for	$699.99 (JDR MicroDevices current price)
+		$745.95 (Products International)
+Your price used $425.00 obo
+
+JDR 2000 20MHz Dual-Channel Portable Analog Oscilliscope
+	o 5mV/div
+	o Component Tester (resistors/caps/diodes/coils)
+	o TV video sync filter
+	o z-axis input (intensity modulation)
+
+List price	$479.95 (I think...but who pays retail?)
+Sells for	$389.95 (JDR MicroDevices)
+		$299.95 (JDR floor sample...hurry, it's in their showroom!)
+Your price used $210.00 obo
+
+I'd prefer a local (Bay Area, California) buyer, so (a) I don't have to ship
+it and (b) she or he can examine the scope prior to purchase.
+
+rbn@apple.com
+",E,E
+"
+
+In article <1993Apr6.053736.23113@doug.cae.wisc.edu> kolstad@cae.wisc.edu (Joel Kolstad) writes:
+>>In <3889@ncr-mpd.FtCollinsCO.NCR.COM> Brad Wright writes:
+>>
+>>>	If you know much about PC's (IBM comp) you might try the joystick
+>>>port.  Though I haven't tried this myself, I've been told that the port
+>
+>I believe that the ""A-D converters"" found on a joystick port are really
+>timers that tick off how long it takes an R-C circuit (the R being your
+>paddle) to charge up to something like 1/2 Vcc.  For games this works
+>pretty well, but you certainly wouldn't want to try to take lab
+>measurements off something as non-linear as that.
+
+The best info I have seen so far is the article ""Joystick Metrics:
+Measuring physical properties through the PC's joystick port"" by
+Michael Covington in the May 1985 issue of PC Tech Journal.  It talks
+about how to read all kinds of things (voltage, current, resistance) in
+BASIC, and even includes code for a simple ""oscilloscope"" display.
+
+It's possible to read the joystick port directly if you don't want to
+use BASIC.  The detailed information for this is in the PC Technical
+Reference under Options and Adapters.  You have to provide some
+millisecond resolution timing functions, but that's a subject which has
+appeared many times in articles from Dr. Dobb's, Circuit Cellar Ink,
+etc.  Look for the public domain ztimer package on wuarchive.
+
+Good Luck,
+
+Dev Palmer
+dpalmer@mcnc.org
+MCNC Room 212
+P.O. Box 12889
+RTP, NC  27709-2889
+(919) 248-1837
+(919) 248-1455 FAX
+",E,E
+"
+Distribution: world
+Message-ID: <1rmn0c$83v@morrow.stanford.edu>
+NNTP-Posting-Host: nova1.stanford.edu
+
+Hi all,
+
+My skin is very dry in general. But the most serious part is located
+from knees down. The skin there looks like segmented. The segmentation
+actually happens beneath the skin. I would like to know if there is any
+cure for this.
+
+At the supermarkets or pharmacies, there are quite a lot of stuffs for
+dry skins, but what to chose?
+
+Thanks in advance for all advices and hints.
+
+Reply by email preferred.
+
+Alex
+
+
+",E,M
+"
+
+In article <734953838.AA00509@insane.apana.org.au> peter.m@insane.apana.org.au (Peter Tryndoch) writes:
+>
+>So when you turn on the power, this causes the bulb to work like a neon, 
+>heating up and shorting out, thus providing a loop to power the heaters in 
+>the main tube. When the tube fires, insufficient current runs through the 
+>starter to keep the heat up and the bi-metalic strip straightens out 
+>(O/C).
+
+Imprecise. This description
+
+ 1. ignores the role of the ballast,
+ 2. misrepresents the heating effects in the starter.
+
+The bimetalic strip cools down immediately after the contacts
+short circuit, because the neon discharge stops, and much less
+heat is generated from the I^2R loss in the metal as compared to
+the neon discharge.
+
+The starter contacts open before the tube fires.  Actually,
+the tube fires as a result of the back-emf generated in the ballast
+because of this immediate opening of the starter's contacts.
+
+A capacitor is connected in parallel with the contacts to prevent
+excessive arcing during the firing.  The neon reionizes but does not draw
+sufficient current to prevent firing of the tube itself.
+-- 
+Mustafa Kocaturk   mustafa@seas.smu.edu  EE Dept., Room 305A, Caruth Bldg.
+Home: 214-706-5954  Office: 214-768-1475  SMU Box 753190, Dallas, TX 75275
+",E,E
+"
+NNTP-Posting-Host: cmb00.larc.nasa.gov
+In-reply-to: dozonoff@bu.edu's message of 21 Apr 93 16:18:19 GMT
+
+In article <116305@bu.edu> dozonoff@bu.edu (david ozonoff) writes:
+
+   Path: news.larc.nasa.gov!darwin.sura.net!zaphod.mps.ohio-state.edu!uwm.edu!linac!att!bu.edu!dozonoff
+   From: dozonoff@bu.edu (david ozonoff)
+   Newsgroups: sci.med
+   Date: 21 Apr 93 16:18:19 GMT
+   References: <PAULSON.93Apr19081647@cmb00.larc.nasa.gov>
+   Sender: news@bu.edu
+   Lines: 22
+   X-Newsreader: Tin 1.1 PL5
+
+   Sharon Paulson (paulson@tab00.larc.nasa.gov) wrote:
+   : 
+   {much deleted]
+   : 
+   : 
+   : The fact that this happened while eating two sugar coated cereals made
+   : by Kellog's makes me think she might be having an allergic reaction to
+   : something in the coating or the cereals.  Of the four of us in our
+   : immediate family, Kathryn shows the least signs of the hay fever, running
+   : nose, itchy eyes, etc. but we have a lot of allergies in our family history
+   : including some weird food allergies - nuts, mushrooms. 
+   : 
+
+   Many of these cereals are corn-based. After your post I looked in the
+   literature and located two articles that implicated corn (contains
+   tryptophan) and seizures. The idea is that corn in the diet might
+   potentiate an already existing or latent seizure disorder, not cause it.
+   Check to see if the two Kellog cereals are corn based. I'd be interested.
+   --
+   David Ozonoff, MD, MPH		 |Boston University School of Public Health
+   dozonoff@med-itvax1.bu.edu	 |80 East Concord St., T3C
+   (617) 638-4620			 |Boston, MA 02118 
+
+
+A couple of folks have suggested the ""corn connection"".  In the five month
+period between the two seizures, my daughter had eaten a fair amount of
+Kix and Berry Berry Kix in the mornings and never had a problem.  I checked
+the labels and the first ingredient is corn.  She has also never had a problem
+eating corn or corn on the cob but of course, that is usually later in the day
+with a full stomach so the absorption would not be so high.  I do believe that
+Frost Flakes have corn in them but I will have to check the Fruit Loops.  But
+the fact that she has eaten this other corny cereal in the morning makes me
+wonder.
+
+Thanks for checking into this.  All information at this point is valuable to me.
+
+Sharon
+--
+Sharon Paulson                      s.s.paulson@larc.nasa.gov
+NASA Langley Research Center
+Bldg. 1192D, Mailstop 156           Work: (804) 864-2241
+Hampton, Virginia.  23681           Home: (804) 596-2362
+",M,M
+"
+
+To: ashwin@cc.gatech.edu (Ashwin Ram)
+
+AR>Does the ""Thermoscan"" instrument really work?  It is supposed to give you a
+
+ABSOLUTELY!
+Ya don't have to do the other end!
+(it is accurate - but technique is important)
+
+cccbbs!rob.welder@uceng.uc.edu
+---
+ . QMPro 1.02 41-4771 . See?... It only hurts for a little while!
+                                                                      
+",E,M
+"
+
+
+I had a similar idea, for a fax/answering machine switch,
+to put both machines on one line.  You order distinctive
+ringing from your phone company.  This is $3/month here.
+You get a second (unpublished) phone number.  When
+someone calls this number, your phone rings with short
+rings instead of long rings.
+
+You set up your answering machine on 4 rings and your fax
+on six rings.  You'd give out the new # as your fax #.
+A device would measure the length of rings.  When it
+detects a short ring, it turns off your answering machine.
+Five rings later your fax picks up the call.
+
+This should be cheaper and more elegant than the $80
+switches now available.
+
+But that's not what I did.  I'm giving out the new
+# to my friends and customers.  This should leave the
+old # for telemarketers, etc.  I won't pick up the
+phone when I hear the long rings.
+-- 
+""Why my thoughts are my own, when they are in, but when they are out
+they are another's."" - Susannah Martin, hanged for witchcraft, 1692.
+Thomas David Kehoe          kehoe@netcom.com         (408) 354-5926
+",E,E
+"
+Message-ID: <1qmbi7$aln@transfer.stratus.com>
+References: <1pseebINNhn6@rave.larc.nasa.gov> <1993Apr7.094703.14511@news.cs.indiana.edu> <bhaskar.734241478@orion.me.uiuc.edu> <C55CxI.95B@mentor.cc.purdue.edu> <mdonahue.15x9@amiganet.chi.il.us>,<C5K177.BoK@world.std.com>
+NNTP-Posting-Host: m3-enet.eng.stratus.com
+
+
+>Off-shore assembly is one reason that Adcom is able to make products 
+>that perform as well as those from people like Audio Research and Van 
+>Alstine (and better than Hafler and Forte'), but at a much lower cost. 
+
+How do you spell ""tuna helper"" ? 
+
+I gather by off-shore assembly you mean that adcoms are built by 
+blue-fin tuna's who are into that squid-fi sound?  (I agree on that one). 
+My Adcom 555 preamp did sound better after installing the famous  
+""running the chips class ""A"" resistor mod"", and replacing the metal 
+bottom cover with plexiglass,, too bad the factory could not make em sound 
+better,, but better sound, unfortunately, does not appear to be a priority 
+with Adcom, else the mods would neither have been necessary, nor would they 
+have improved what was already touted as superlative state-o-d-art le'sound. 
+I really want to hear from all those people out there who have traded up  
+from an sp9II (even an sp3a!) to a GFP-555/etc., or maybe from those that 
+have dumped their forte' amps for a GFA-555/etc....  
+
+
+",E,E
+"
+Nntp-Posting-Host: picasso.synoptics.com
+
+
+    Just a few comments about the feasability of zipping up a bunch of miles
+on your electronic odometer with an oscillator....
+
+    I wouldn't expect to be able to do this.  Not because the engineers at BMW are
+putting in anti-fraud logic, but just because an automobile is a noisy, hostile
+environment for electronics, and I would expect the software to be conservative.
+
+   If I were to design a microprocessor-based odometer/speedometer program,
+it would have the following features ( just off the top of my head ):
+
+         * Debouncing/deglitching  ( Is this a real pulse, or just a glitch? )
+         * Smoothing:  The rate-of-change of speed cannot be too high:
+                                This is a car, not an electron.
+         *  Top speed limit:  Anything above 200MPH is ridiculous: must be
+                                        electrical noise or contact bounce
+
+    As for getting in and presetting the pins:  if this is the circuit board out of
+a BMW dashboard, I seem to remember a single big chip with lotsa pins in the
+middle of the card.  Good luck getting at the counter :-).
+
+    I wouldn't expect a high input frequency to damage the meter:  remember, it's
+probably damped so it can't move too fast, and is probably protected.  After all,
+a car is an extremely hostile place for delicate electronics;  there used to be an
+app note in the National Semiconductor Linear Databook that went into this
+in good detail.
+
+                               - Jerry Kaidor ( tr2!jerry@dragoman.com, jkaidor@synoptics.com )
+
+
+                                  - Jerry Kaidor
+",E,E
+"
+
+My girlfriend is in pain from kidney stones. She says that because she has no
+medical insurance, she cannot get them removed.
+
+My question: Is there any way she can treat them herself, or at least mitigate
+their effects? Any help is deeply appreciated. (Advice, referral to literature,
+etc...)
+
+Thank you,
+
+Dave Carvell
+pk115050@wvnvms.wvnet.edu
+",M,M
+"
+
+In article <C65oIL.436@vuse.vanderbilt.edu>, alex@vuse.vanderbilt.edu (Alexander P. Zijdenbos) writes:
+>FLAME ON
+>
+>Reading through the posts about Kirlian (whatever spelling)
+>photography I couldn't help but being slightly disgusted by the
+>narrow-minded, ""I know it all"", ""I don't believe what I can't see or
+>measure"" attitude of many people out there.
+>
+>I am neither a real believer, nor a disbeliever when it comes to
+>so-called ""paranormal"" stuff; but as far as I'm concerned, it is just
+>as likely as the existence of, for instance, a god, which seems to be
+>quite accepted in our societies - without any scientific basis.
+>
+>I am convinced that it is a serious mistake to close your mind to
+>something, ANYTHING, simply because it doesn't fit your current frame
+>of reference. History shows that many great people, great scientists,
+>were people who kept an open mind - and were ridiculed by sceptics.
+>
+>Especially the USA should be grateful; after all, Columbus did not
+>drop off the edge of the earth.
+>
+>FLAME OFF, or end sermon :-)
+
+We know that sermon.  It is posted roughly every month or so by different
+persons, and that doesn't make it any better.
+
+How did you get the idea that skeptics are closed-minded?  Why don't you
+consider the possibility that they came to their conclusions by the
+proper methods?  Besides, one can come to a conclusion without closing
+one's mind to other possibilities.
+
+I you don't agree with a person, please ask him why he thinks like that,
+instead of insulting him.  Perhaps he's right.  Follow your own advice,
+be open-minded.
+
+If you don't post a bit of evidence for your claims, I'll complain that
+it's always those ""neither a real believer, nor a disbeliever"" types who 
+narrow-mindedly judge others without knowing their motives.
+
+--
+thomas kettenring, 3 dan, kaiserslautern, germany
+The extraterrestrials don't even know this planet has native inhabitants.
+Their government doesn't tell them.
+",E,M
+"
+
+Does anybody have informations about the
+
+ W 86 C 451   and  W 86 C 456 chips (40pin DIL pckg)?
+
+They are build in a multifunction io-card for pc.
+
+Thanks 
+         Dirk
+-- 
+------------------------------------------------------------
+Dirk Junghanns                    junghanns@rz.tu-ilmenau.de
+------------------------------------------------------------
+",E,E
+"
+
+Hi.  I'm looking for software to aid a friend of mine with designing speakers.
+Does this type of software exist?  If anyone can point me toward a shareware or
+freeware product with this description, that would be ideal.
+
+...Steve van der Burg (using a friend's account)
+
+(p.s. Excuse the terseness of the message;  I'm having difficulty stringing
+readable sentences together today, for some reason.)
+
+-- 
+
+				-Luke Koops
+
+",E,E
+"
+
+>Could some kind soul post me the max power/voltage/current ratings of
+>2SC1096 and 2SA634 transistors, their conductance types and pinouts.
+>They are used in the sweep portion of a TV set.
+
+2SC1096
+  Maximum Ratings:
+    VCBO = 40V
+    VCEO = 30V
+    IC   = 3A
+    PC   = 10W (T=25C)
+
+  ICBO max = 1uA
+  VCB = 30V
+  COB = 55pF
+
+  at Q-point VCE=5, IC=1A --> hfe = 100
+
+2SA634
+  Maximum Ratings:
+    VCBO = -40V
+    VCEO = -30V
+    IC   = -3A
+    PC   = 10W (T=25C)
+
+  ICBO max = -1uA
+  VCB = -30V
+  COB = 75pF
+
+  at Q-point VCE = -5V, IC = -1A --> hfe = 100
+
+That's all i can get from my data book, hope that helps.
+
+suwanto@iastate.edu
+
+    
+",E,E
+"
+Sender: news@osuunx.ucc.okstate.edu (USENET News System)
+Nntp-Posting-Host: vms.ocom.okstate.edu
+Organization: OSU College of Osteopathic Medicine
+References: <1993Apr22.153000.1@vms.ocom.okstate.edu> <1r9j33$4g8@hsdndev.harvard.edu>
+Date: Sat, 24 Apr 1993 00:04:30 GMT
+
+In article <1r9j33$4g8@hsdndev.harvard.edu>, rind@enterprise.bih.harvard.edu (David Rind) writes:
+> In article <1993Apr22.153000.1@vms.ocom.okstate.edu>
+>  banschbach@vms.ocom.okstate.edu writes:
+>>poster for being treated by a liscenced physician for a disease that did 
+>>not exist.  Calling this physician a quack was reprehensible Steve and I 
+>>see that you and some of the others are doing it here as well.  
+> 
+> Do you believe that any quacks exist?  How about quack diagnoses?  Is
+> being a ""licensed physician"" enough to guarantee that someone is not
+> a quack, or is it just that even if a licensed physician is a quack,
+> other people shouldn't say so?  Can you give an example of a
+> commonly diagnosed ailment that you think is a quack diagnosis,
+> or have we gotten to the point in civilization where we no longer
+> need to worry about unscrupulous ""healers"" taking advantage of
+> people.
+> -- 
+> David Rind
+
+I don't like the term ""quack"" being applied to a licensed physician David.
+Questionable conduct is more appropriately called unethical(in my opinion).
+I'll give you some examples.
+
+	1. Prescribing controlled substances to patients with no 
+	   demonstrated need(other than a drug addition) for the medication.
+
+	2. Prescribing thyroid preps for patients with normal thyroid 
+	   function for the purpose of quick weight loss.
+
+	3. Using laetril to treat cancer patients when such treatment has 
+	   been shown to be ineffective and dangerous(cyanide release) by 
+	   the NCI.
+
+These are errors of commission that competently trained physicians should 
+not committ but sometimes do.  There are also errors of omission(some of 
+which result in malpractice suits).  I don't think that using anti-fungal 
+agents to try to relieve discomfort in a patient who you suspect may be 
+having a problem with candida(or another fungal growth) is an error of 
+commission or omission.  Healers have had a long history of trying to 
+relieve human suffering.  Some have stuck to standard, approved procedures,
+others have been willing to try any reasonable treatment if there is a 
+chance that it will help the patient.  The key has to be tied to the 
+healer's oath, ""I will do no harm"".  But you know David that very few 
+treatments involve no risk to the patient.  The job of the physician is a 
+very difficult one when risk versus benefit has to be weighed.  Each 
+physician deals with this risk/benefit paradox a little differently.  Some 
+are very conservative while others are more agressive.  An agressive 
+approach may be more costly to the patient and carry more risk but as long 
+as the motive is improving the patient's health and not an attempt to rake 
+in lots of money(through some of the schemes that have been uncovered in 
+the medicare fraud cases), I don't see the need to label these healers as 
+quacks or even unethical.
+
+What do I reserve the term quack for?  Pseudo-medical professionals.  
+These people lurk on the fringes of the health care system waiting for the 
+frustrated patient to fall into their lair.  Some of these individuals are 
+really doing a pretty good job of providing ""alternative"" medicine.  But 
+many lack any formal training and are in the ""business"" simply to make a 
+few fast bucks.   While a patient can be reasonably assured of getting 
+competent care when a liscenced physician is consulted, this alternative 
+care area is really a buyer's beware arena.  If you are lucky, you may find 
+someone who can help you.  If you are unlucky, you can loose a lot of 
+money and develop severe disease because of the inability of these pseudo-
+medical professional to diagnose disease(which is the fortay of the 
+liscened physicians).
+
+I hope that this clears things up David.
+
+Marty B.
+",M,M
+"
+
+In article <1993Mar25.020646.852@news.columbia.edu> jhl14@cunixa.cc.columbia.edu (Jonathan H. Lin) writes:
+>I was wondering what steps are being taken to prevent the spread of
+>multi-drug resistant tuberculosis.  I've heard that some places are
+>thinking of incarcerating those with the disease.  Doesn't this violate
+>the civil rights of these individuals?  Are there any legal precedents
+>for such action?
+>
+
+Who knows in this legal climate, but there is tremendous legal precendent
+for forcibly quarantining TB patients in sanitariums.  100 yrs ago
+it was done all the time.  It has been done sporadically all along
+in patients who won't take their medicine.  If you have TB you
+may find yourself under surveilence of the Public Health Department
+and you may find they have the legal power to insist you make your
+clinic visits.
+-- 
+----------------------------------------------------------------------------
+Gordon Banks  N3JXP      | ""Skepticism is the chastity of the intellect, and
+geb@cadre.dsl.pitt.edu   |  it is shameful to surrender it too soon."" 
+----------------------------------------------------------------------------
+",M,M
+"
+
+In article <1ql7ug$i50@sunb.ocs.mq.edu.au> johnh@macadam.mpce.mq.edu.au (John Haddy) writes:
+>In article <120466@netnews.upenn.edu>, jhaines@eniac.seas.upenn.edu (Jason Haines) writes:
+>|> 
+>|> 	I was wondering if people had any good uses for old
+>|> 256k SIMMs.  I have a bunch of them for the Apple Mac
+>|> and I know lots of other people do to.  I have tried to
+>|> sell them but have gotten NO interest.
+>|> 
+>|> 	So, if you have an inovative use (or want to buy
+>|> some SIMMs  8-) ), I would be very interested in hearing
+>|> about it.
+>
+>The most practical use I've seen for them is as key ring ornaments :-)
+>
+>JohnH
+
+I used a bunch as weights, when building a model airplane.  Hung them
+on the stringers, across the stringer, or whatever.  Worked pretty well.
+
+Kelly
+
+",E,E
+"
+Sender: news@osuunx.ucc.okstate.edu (USENET News System)
+Nntp-Posting-Host: vms.ocom.okstate.edu
+Organization: OSU College of Osteopathic Medicine
+References: <1rhfrkINN816@shelley.u.washington.edu>
+Date: Mon, 26 Apr 1993 23:45:38 GMT
+
+In article <1rhfrkINN816@shelley.u.washington.edu>, nodrog@hardy.u.washington.edu (Gordon Rubenfeld) writes:
+> banschbach@vms.ocom.okstate.edu writes:
+> 
+>>to candida blooms following the use of broad-spectrum antibiotics?  Gorden 
+>>Rubenfeld, through e-mail, has assured me that most physicians recognize 
+>>the chance of candida blooms occuring after broad-spectrum antibiotic use 
+>>and they therefore reinnoculate their patients with *good* bacteria to 
+>>restore competetion for candida in the body.  I do not believe that this is 
+>>yet a standard part of medical practice.  
+> 
+>   Nor is it mine.  What I tried to explain to Marty was that it is clearly
+> understood that antibiotic exposure is a risk factor for fungal infections
+> - which is not the same as saying bacteria prevent fungal infections. 
+> Marty made this sound like a secret  known only to veternarians and
+> biochemists.  Anyone who has treated a urinary tract infection knowns
+> this. At some centers pre-op liver transplant patients receive bowel
+> decontamination directed at retaining ""good"" anaerobic flora in an attempt
+> to prevent fungal colonization in this soon-to-be high risk group.  I also
+> use lactobacillus to treat enteral nutrition associated diarrhea (that may
+> be in part due to alterations in gut flora).  However, it is NOT part of
+> my routine practice to ""reinnoculate"" patients with ""good"" bacteria after
+> antibiotics.  I have seen no data on this practice preventing or treating
+> fungal infections in at risk patients.  Whether or not it is a ""logical
+> extension"" from the available observations I'll leave to those of you who
+> base strong opinions and argue over such speculations in the absence of
+> clinical trials. 
+>   One place such therapy has been described is in treating particularly
+> recalcitrant cases of C. difficile colitis (NOT a fungal infection). There
+> are case reports of using stool (ie someone elses) enemas to repopulate
+> the patients flora.  Don't try this at home. 
+> 
+>>not give give her advise to use the OTC anti-fungal creams.  Since candida 
+>>colonizes primarily in the ano-rectal area, GI symptoms should be more common 
+>>than vaginal problems after broad-spectrum antibiotic use.
+> 
+>   Except that it isn't. At least symptomatically apparent disease.
+> 
+>>Medicine has not, and probalby never will be, practiced this way.  There 
+>>has always been the use of conventional wisdom.  A very good example is 
+>>kidney stones.  Conventional wisdom(because clinical trails have not been 
+>>done to come up with an effective prevention), was that restricitng the 
+>>intake of calcium and oxalates was the best way to prevent kidney stones 
+>>from forming.  Clinical trials focused on drugs or ultrasonic blasts to 
+>>breakdown the stone once it formed.  Through the recent New England J of 
+>>Medicine article, we now know that conventional wisdom was wrong, 
+>>increasing calcium intake is better at preventing stone formation than is 
+>>restricting calcium intake.
+> 
+>   Seems like this is an excellent argument for ignoring anecdotal
+> conventional wisdom (a euphemism for no data) and doing a good clinical
+> trial, like: 
+> 
+> AU   Dismukes-W-E.  Wade-J-S.  Lee-J-Y.  Dockery-B-K.  Hain-J-D.
+> TI   A randomized, double-blind trial of nystatin therapy for the
+>      candidiasis hypersensitivity syndrome [see comments]
+> SO   N-Engl-J-Med.  1990 Dec 20.  323(25).  P 1717-23.
+>      psychological tests. RESULTS. The three active-treatment regimens
+>      and the all-placebo regimen
+>      significantly reduced both vaginal and systemic symptoms (P less than
+>      0.001), but nystatin did not reduce the systemic symptoms
+>      significantly more than placebo. [ . . . ]
+>      CONCLUSIONS. In women with presumed candidiasis
+>      hypersensitivity syndrome, nystatin does not reduce systemic or
+>      psychological symptoms significantly more than placebo. Consequently,
+>      the empirical recommendation of long-term nystatin therapy for such
+>      women appears to be unwarranted.
+> 
+>   Does this trial address every issue raised here, no.  Jon Noring was not
+> surprised at this negative trial since they didn't use *Sporanox* (despite
+> Crook's recommendation for Nystatin).  Maybe they didn't avoid those
+> carbohydrates . . . 
+> 
+>>The conventional wisdom in animal husbandry has been that animals need to 
+>>be reinnoculated with *good* bacteria after coming off antibiotic therapy.
+>>If it makes sense for livestock, why doesn't it make sense for humans 
+>>David?  We are not talking about a dangerous treatment(unless you consider 
+>>yogurt dangerous).  If this were a standard part of medical practice, as 
+>>Gordon R. says it is, then the incidence of GI distress and vaginal yeast 
+>>infections should decline.
+> 
+>   Marty, you've also changed the terrain of the discussion from empiric
+> itraconazole for undocumented chronic fungal sinusitis with systemic
+> hypersensitivity symptoms (Noring syndrome) to the yoghurt and vitamin
+> therapy of undocumented candida enteritis (Elaine Palmer syndrome) with
+> systemic symptoms.  There is significant difference between the cost and
+> risk of these two empiric therapeutic trials.  Are we talking about ""real""
+> candida infections, the whole ""yeast connection"" hypothesis, the efficacy
+> of routine bacterial repopulation in humans, or the ability of anecdotally
+> effective therapies (challenged by a negative randomized trial) to confirm
+> an etiologic hypothesis (post hoc ergo propter hoc).  We can't seem to
+> focus in on a disease, a therapy, or a hypothesis under discussion. 
+>           
+>                            I'm lost!
+
+Candida can do that to you. :-)  Gordon, I think that the best clinical 
+trial for candida blooms would involve giving women with chronic vaginal 
+candida blooms L. Acidophilus orally and see it it can decrease the 
+frequency and extent of candida blooms in the vagina since most of the 
+candida seems to be migrating in from the anal region and L. acidophilus 
+should be able keep the candida in check if it can make it through the 
+intestinal tract and colonize in the anus where it will have access to 
+oxygen(just like it does in the vagina).  As much stuff as there is in the 
+lay press about L. acidophilus and vaginal yeast infections, I'm really 
+amazed that someone has not done a clinical trial yet to check it out.
+
+
+The calcium and kidney stone story is not a good reason to throw all 
+conventional wisdom out the window.  Where would medicine be if 
+conventional wisdom had not been used to develop many of the standard 
+medical practices that could not be confirmed through clinical trials?
+The clinical trial is a very new arrival on the medical scene(and a very 
+important one).  The lack of proof that reinnoculation with good bacteria 
+after antibiotic use is important to the health of a patient is no reason 
+to dismiss it out-of-hand, especially if reinnoculation can be done cleaply 
+and safely(like it is in animal husbandry).
+
+Marty B.
+
+",M,M
+"
+Sender: news@tinton.ccur.com (News)
+Organization: Concurrent Computer Corp., Tinton Falls, NJ
+References: <1993Apr26.120417.22328@linus.mitre.org> <1rgrsvINNmpr@gap.caltech.edu> <1993Apr26.204319.11231@ultb.isc.rit.edu>
+Date: Tue, 27 Apr 1993 20:08:05 GMT
+Lines: 31
+
+In article <1993Apr26.204319.11231@ultb.isc.rit.edu> eas3714@ultb.isc.rit.edu (E.A. Story) writes:
+>In article <1rgrsvINNmpr@gap.caltech.edu> carl@SOL1.GPS.CALTECH.EDU writes:
+>>Greg:Flame definitely intended here.  Bill was making fun of the misspelling. 
+>>Go look up the word ""krill.""  Also, the correct spelling is Kirlian.  It
+>>involves taking photographs of corona discharges created by attaching the
+>>subject to a high-voltage source, not of some ""aura.""  It works equally well
+>>with inanimate objects.
+>
+>True.. but what about showing the missing part of a leaf?  Is this
+>""corona discharge""?
+>
+I think I can explain the ""missing part of a leaf"" story.
+
+I have actually seen a reproduction of that particular Kirlian
+photograph, in a book compiled by people who were enthusiasts of
+Kirlian photography.  ""That particular photograph"" ... ?  That's
+right, the effect has been observed only once.  Even the writers of
+the book were inclined to disbelieve in it.  
+
+I conjecture that the maker of that photograph began by placing
+a whole leaf between two plates and taking its Kirlian photo.
+For his next experiment, he cut the leaf in half, put one half down
+between the same two plates, and took another K. p.  The
+""missing half"" effect was created by water, oils, etc. left behind 
+after the first photo.
+
+This explanation must be tentative, because after all I wasn't there
+when it happened.  
+
+Regards,
+Chris Henrich
+",M,M
+"
+
+Awhile back someone posted some information on where you can get
+kits to build an EEG.  Does anyone remember where you could get
+this.  I'm very interested in getting some info on this.  Thanks 
+in advance.
+
+eric
+
+cantrell@sauron.msfc.nasa      
+
+",E,E
+"
+
+
+Let me try sending this message again, I botched up the margins the
+first time; *sorry* 'bout that :)
+
+Does anyone out there know of any products using Motorola's Neuron(r)
+chips MC143150 or MC143120. If so, what are they and are they utilizing
+Standard Network Variable Types (SNVT)?
+________________________________________________________________________
+
+Ted Van Den Heuvel   heuvel@neptune.iex.com
+KX5P
+________________________________________________________________________
+",E,E
+"
+
+In article <afgE02Wb3dVu01@JUTS.ccc.amdahl.com>,
+ dws30@p1ps110cd.amdahl.com (David Sharpe) writes:
+> There are a few more details to radar and some
+> rumors that are not true.  A common one is that two beams are sent one
+> reading the car speed and one the ground speed.  If this were true then
+> calabration would be murder.  Hope this helps (Flame On)
+
+Gee, then I guess the extra horn that's mounted in the floor of some SDPD cars,
+firing at the ground at a shallow angle, is just for show, huh?
+
+(For calibration, they simply turn off one horn or the other.) 
+
+	--- Jamie Hanrahan, Kernel Mode Systems, San Diego CA
+Internet:  jeh@cmkrnl.com  Uucp: uunet!cmkrnl!jeh  CIS: 74140,2055
+",E,E
+"
+
+I have a Fujitsu M2322K which has been removed (I believe) from a digital
+X-Ray machine (takes X-Ray pictures without film).  The Fujitsu part number
+is B03B-4745-B002A.
+
+I have obtained some data on the device, it is 8-inch winchester-type
+of 168 megabyte capacity (though I was told it was over 800 megabytes).
+However, there is very little information on the interface standard used.
+It appears to use two balanced-line connections, but what each connection
+corresponds to I know not. One connection is a 30-way IDC, the other a
+60-way IDC.
+
+If anyone has any information on this device, I would be most grateful
+if you could provide it.
+
+Thanks.
+
+
+Chris Powell.
+-- 
++------------------------------------------------------------------------+
+|  THE MAN FROM :  #####  #######  | JANET    : cjp1@uk.ac.aber          |
+|                 #     #     _#   | Internet : cjp1@aber.ac.uk          |
+|                 #     #  _#      | NYX      : cpowell@nyx.cs.du.edu    |
+",E,E
+"
+
+Iridology is descendant from a 19th-century theory which mapped certain
+diseases to sectors of the iris of the eye.  There's enough natural
+variation in color that a skilled examiner can find indicators of
+virtually any disease.
+
+Modern scientists consider it to be complete bunk.
+",M,M
+"
+NNTP-Posting-Host: carson.u.washington.edu
+
+In article <C5L5x0.KJ7@vcd.hp.com> johne@vcd.hp.com (John Eaton) writes:
+>-s87271077-s.walker-man-50- (swalker@uts.EDU.AU) wrote:
+
+>During the nuclear fission reaction the uranium fuel can get hot enough
+>to melt. When this happens the liquid uranium is pumped to the cooling
+>tower where it is sprayed into the air. 
+
+	Nonsense.  First, the uranium fuel is sealed in zirconium
+alloy cylinders (which don't melt in any circumstances short of 
+major failure of the power plant).  Second, the primary water
+(that circulates inside the reactor core) is never pumped into the
+cooling tower (it's the SECONDARY water cycle that goes 
+through the cooling tower).  Third, liquid uranium would burst
+into flame on contact with air.
+
+>Contact with the cool outside air
+>will condense the mist and it will fall back to the cooling tower floor.
+>There it is collected by a cleaning crew using shop vacs and is then
+>reformed into pellets for reactor use the next day.
+
+	Cleaning crew working in a mist of uranium?  This is a
+toxic heavy metal, even if it WEREN'T radioactive.  Shouldn't there
+be some smileys here?  Or frowneys? 
+
+	John Whitmore
+",E,E
+"
+Organization: The Information Deli - via Netcom / San Jose, California
+References: <1993Apr19.205615.1013@unlv.edu>
+Date: Tue, 20 Apr 1993 03:12:46 GMT
+
+[Newsgroups: m.h.a added, followups set to most appropriate groups.]
+
+In <1993Apr19.205615.1013@unlv.edu> todamhyp@charles.unlv.edu (Brian M.
+Huey) writes:
+
+>I am looking for any information/supplies that will allow
+>do-it-yourselfers to take Krillean Pictures.
+
+(It's ""Kirlian"".  ""Krillean"" pictures are portraits of tiny shrimp. :)
+
+[...]
+
+>One might extrapolate here and say that this proves that every object
+>within the universe (as we know it) has its own energy signature.
+
+I think it's safe to say that anything that's not at 0 degrees Kelvin
+will have its own ""energy signature"" -- the interesting questions are
+what kind of energy, and what it signifies.
+
+I'd check places like Edmund Scientific (are they still in business?) --
+or I wonder if you can find ex-Soviet Union equipment for sale somewhere
+in the relcom.* hierarchy.
+
+Some expansion on Kirlian photography:
+
+From the credulous side: [Stanway, Andrew, _Alternative Medicine: A Guide
+To Natural Therapies_, ISBN 0-14-008561-0, New York: Viking Penguin, 1986,
+p211, p188.  A not-overly critical but still useful overview of 32
+alternative health therapies.]
+
+  ...the Russian engineer Semyon Kirlian and his wife Valentina during the
+  1950s.  Using alternating currents of high frequency to 'illuminate'
+  their subjects, they photographed them.  They found that if an object
+  was a good conductor (such as a metal) the picture showed only its
+  surface, while the pictures of poor conductors showed the inner
+  structure of the object even if it were optically opaque.  They found
+  too that these high frequency pictures could distinguish between dead
+  and living objects.  Dead ones had a constant outline whilst living ones
+  were subject to changes.  The object's life activity was also visible in
+  highly variable colour patterns.
+
+  High frequency photography has now been practised for twenty years in
+  the Soviet Union but only a few people in the West have taken it up
+  seriously.  Professor Douglas Dean in New York and Professor Philips at
+  Washington University in St Louis have produced Kirlian photographs and
+  others have been produced in Brazil, Austria and Germany.
+
+  Using Kirlian photography it is possible to show an aura around people's
+  fingers, notably around those of healers who are concentrating on
+  healing someone.  Normally, blue and white rays emanate from the fingers
+  but, when a subject becomes angry or excited, the aura turns red and
+  spotty.  The Soviets are now using Kirlian photography to diagnose
+  diseases which cannot be diagnosed by any other method.  They argue that
+  in most illnesses there is a preclinical stage during which the person
+  isn't actually ill but is about to be.  They claim to be able to
+  foretell a disease by photographing its preclinical phase.
+
+  But the most exciting phenomenon illustrated by Kirlian photography is
+  the phantom effect.  During high frequency photography of a leaf from
+  which a part had been cut, the photograph gave a complete picture of the
+  leaf with the removed part showing up faintly.  This is extremely
+  important because it backs up the experiences of psychics who can 'see'
+  the legs of amputees as if they were still there.  The important thing
+  about the Kirlian phantoms though is that the electromagnetic pattern
+  can't possibly represent a secondary phenomenon -- or the field would
+  vanish when the piece of leaf or leg vanished.  The energy grid
+  contained in a living object must therefore be far more significant than
+  the actual object itself.
+
+  [...]
+
+  Kirlian photography has shown how water mentally 'charged' by a healer
+  has a much richer energy field around it than ordinary water...
+
+
+From the incredulous side: [MacRobert, Alan, ""Reality shopping; a
+consumer's guide to new age hokum."", _Whole Earth Review_, Autumn 1986,
+vNON4 p4(11).  An excellent article providing common-sense guidelines for
+evaluating paranormal claims, and some of the author's favorite examples
+of hokum.]
+
+  The crank usually works in isolation from everyone else in his field of
+  study, making grand discoveries in his basement.  Many paranormal
+  movements can be traced back to such people -- Kirlian photography, for
+  instance.  If you pump high-voltage electricity into anything it will
+  emit glowing sparks, common knowledge to electrical workers and
+  hobbyists for a century.  It took a lone basement crank to declare that
+  the sparks represent some sort of spiritual aura.  In fact, Kirlian
+  photography was subjected to rigorous testing by physicists John O.
+  Pehek, Harry J. Kyler, and David L. Faust, who reported their findings
+  in the October 15, 1976, issue of Science.  Their conclusion: The
+  variations observed in Kirlian photographs are due solely to moisture on
+  the surface of the body and not to mysterious ""auras"" or even
+  necessarily to changes in mood or mental state.  Nevertheless,
+  television shows, magazines, and books (many by famous
+  parapsychologists) continue to promote Kirlian photography as proof of
+  the unknown.
+
+-- 
+Peter Kaminski
+kaminski@netcom.com
+",M,M
+"
+
+If the set is direct line powered, try checking the [likely to be
+there] hybrid regulator module down stream from the 170 volt
+supply.  Several sets I've looked at use a 135 volt regulator.  The
+regulators have a tendency to short out, making the safety circuits
+shut down the EHT supply section.
+
+Try putting the set on a Variac or adjustable transformer and lower
+the AC input voltage to the set to about 90 volts.  If the set
+operates nromally, then you know you've got a shorted regulator.
+
+There are myriad other areas for problems, but I've seen the one
+above several times.  Also, if the set uses one, the trippler
+module may be shot; that's fairly common.
+
+
+-- 
+Bill Mayhew      NEOUCOM Computer Services Department
+Rootstown, OH  44272-9995  USA    phone: 216-325-2511
+wtm@uhura.neoucom.edu (140.220.1.1)    146.580: N8WED
+",E,E
+"
+
+FLAME ON
+
+Reading through the posts about Kirlian (whatever spelling)
+photography I couldn't help but being slightly disgusted by the
+narrow-minded, ""I know it all"", ""I don't believe what I can't see or
+measure"" attitude of many people out there.
+
+I am neither a real believer, nor a disbeliever when it comes to
+so-called ""paranormal"" stuff; but as far as I'm concerned, it is just
+as likely as the existence of, for instance, a god, which seems to be
+quite accepted in our societies - without any scientific basis.
+
+I am convinced that it is a serious mistake to close your mind to
+something, ANYTHING, simply because it doesn't fit your current frame
+of reference. History shows that many great people, great scientists,
+were people who kept an open mind - and were ridiculed by sceptics.
+
+Especially the USA should be grateful; after all, Columbus did not
+drop off the edge of the earth.
+
+FLAME OFF, or end sermon :-)
+
+-- Alex
+",M,M
+"
+
+[From Kalat, J.W.. (1992):  _Biological Psychology_. Wadsworth Publishing Co.
+Belmont, CA.  Pg. 219.  Reproduced without permission.]
+
+
+
+Digression 6.1:  Miracle Berries and the Modification of Taste Receptors
+
+Although the _miracle berry_, a plant native to West Africa is practically
+tasteless, it temporarily changes the taste of other substances.  Miracle
+berries contain a protein, _miraculin_, that modifies sweet receptors in
+such a way that they can be stimulated by acids (Bartoshuk, Gentile, 
+Moskowitz, & Meiselman, 1974).  If you ever get a chance to chew a miracle
+berry (and I do recommend it), for about the next half an hour all acids 
+(which are normally sour) will taste sweet.  They will continue to taste
+sour as well.
+
+Miraculin was, for a time, commercially available in the United States as a
+diet aid.  The idea was that dieters could coat their tongue with a miraculin
+pill and then eat and drink unsweetened, slightly acidic substances.  Such
+substances would taste sweet without providing many calories.
+
+A colleague and I once spent an evening experimenting with miracle berries.
+We drank straight lemon juice, sauerkraut juice, even vinegar.  All tasted
+extremely sweet.  Somehow we forgot how acidic these substances are.  We 
+awoke the next day to find our mouths full of ulcers.
+
+[... continued discussion of a couple other taste-altering substances ...]
+
+
+Refs:  
+
+Bartoshuk, L.M., Gentile, R.L., Moskowitz, H.R., & Meiselman, H.L.  (1974):
+   Sweet taste induced by miracle fruit (_Synsephalum dulcificum_). 
+   _Physiology & Behavior_.  12(6):449-456.
+
+
+-------------
+
+
+Anyone ever hear of these things or know where to get them?
+
+
+-marc
+andersom@spot.colorado.edu
+
+
+
+",M,M
+"
+Sender: news@shannon.ee.wits.ac.za
+Organization: Wits University Electrical Engineering
+Date: Tue, 20 Apr 1993 10:49:00 GMT
+
+I want to be able to take a bunch of home-made songs (from DAT or other 
+suitable master) and output them to a short run (10-20 off) of standard 
+music CDs. Would one of the CD recorders designed for writeable CD ROMs work 
+for this purpose? Alternatively, is there a service that does this sort of 
+thing for a fee? 
+
+I'm after as much information as possible on the alternatives (cost, lead 
+time, equipment required, procedure to follow, etc.)  Email replies would be 
+appreciated.
+
+%%%%     Geva Patz
+ Geva    Department of Computer Science, WITS University
+  %%%%   geva@concave.cs.wits.ac.za
+",E,E
+"
+Message-ID: <1qmevkINNca5@senator-bedfellow.MIT.EDU>
+NNTP-Posting-Host: mtl.mit.edu
+
+Does anyone know what causes the ever-growing black border around the
+edges of my computer screen?  The growth has been gradual so I don't
+know how long it's taken to get this bad.  I have a 19"" DEC (?)
+color monitor, maybe five years old, and the black border is about 1.1
+inches on the left and right sides, about 1.75 inches on the bottom and
+negligible at the top of the screen.  The only controls are
+brightness knob, contrast knob, deGauss switch, and power switch.
+
+Is there anything to be done, or are the monitor's days numbered?
+
+Larry Hsu
+larryhsu@mtl.mit.edu
+",E,E
+"
+
+In article <1993Apr26.120417.22328@linus.mitre.org> gpivar@mitre.org(The Pancake Emporium) writes:
+>In article <1993Apr22.211005.21578@scorch.apana.org.au>, bill@scorch.apana.org.au (Bill Dowding) writes:
+>|> todamhyp@charles.unlv.edu (Brian M. Huey) writes:
+>|> 
+>|> >I think that's the correct spelling..
+>|> >	I am looking for any information/supplies that will allow
+>|> >do-it-yourselfers to take Krillean Pictures. I'm thinking
+>|> >that education suppliers for schools might have a appartus for
+>|> >sale, but I don't know any of the companies. Any info is greatly
+>|> >appreciated.
+>|> 
+>|> Krillean photography involves taking pictures of minute decapods resident in 
+>|> the seas surrounding the antarctic. Or pictures taken by them, perhaps.
+>|> 
+>|> Bill from oz
+>|> 
+>
+>
+>Bill,
+>No flame intended but you're way, way off base. In simple terms Kirilian
+>photography registers the electromagnetical fields around objects, in simple,
+>it takes pictures of your aura.
+>|> 
+>
+>-- 
+>Greg 
+>
+You're confused.  You are talking about KIRILIAN photography.
+
+Bill is talking KRILLEAN photography.
+
+
+-- 
+  |   tad@ssc.com  (if it bounces, use 3288544@mcimail.com)   |
+  |   Tad Cook     |  Packet Amateur Radio:  |  Home Phone:   |
+  |   Seattle, WA  |  KT7H @ N7DUO.WA.USA.NA |  206-527-4089  |
+
+",M,M
+"
+
+Great, the first advantage of cheap coax, I've ever heard.
+
+Cheers   Robert  (HB9NBY)
+
+--
+Robert Ganter			/------------\
+Universitaet Basel		| I am a fan |
+Institut fuer Informatik	| of my plan |
+Basel/Switzerland		\------------/
+ganter@ifi.unibas.ch
+amateurradio: HB9NBY	packet: HB9NBY@HB9EAS.CHE.EU
+",E,E
+"
+Distribution: world
+Message-ID: <werner-010593220728@tol7mac19.soe.berkeley.edu>
+References: <736250544snx@penguin.equinox.gen.nz>
+NNTP-Posting-Host: tol7mac19.soe.berkeley.edu
+
+In article <736250544snx@penguin.equinox.gen.nz>,
+blubird@penguin.equinox.gen.nz (Gordon Taylor) wrote:
+
+> The Prozac gave very bad anxiety/jitters and insomina, it was impossible to 
+> sit still for more than a minute or so.
+
+I tried Prozac a few months ago, and had some insomnia from it, but no
+anxiety or jitters.  I probably could have lived with the insomnia if the
+Prozac had done any good, but it only provided a tiny benefit.  Maybe
+because the person who prescribed it didn't know much and gave up after a
+20mg dose didn't work.
+
+Now I'm seeing a psychiatrist who has put me on Zoloft (another serotonin
+reuptake inhibitor like Prozac).  One pill/day (50mg) seemed to help some. 
+Now I'm trying 100mg/day.  Zoloft has fewer and milder side effects than
+Prozac.  I think my doctor said that only 4% of the people taking Zoloft
+have to discontinue it because of side effects.  The only problem I'm
+having is some minor GI distress, but nothing too annoying.  Hopefully the
+Zoloft will work.  Maybe your friend should try this one next.
+
+My psychiatrist's strategy seems to be to first try one of the serotonin
+drugs, usually Prozac.  If that works, great.  If it works but has too many
+side effects, try Zoloft or maybe Paxil.  If the serotonin drugs don't work
+at all, try one of the tricyclics like desipramine.
+
+>...suggestions as to the next step?
+
+Having a doctor who knows something about antidepressants can make a big
+difference.  My psychiatrist claims that most GPs and FPs don't have much
+experience in this area, and from what I've seen I'm inclined to believe
+him.  I think I know more about antidepressants than the people at my
+family practitioner's office.
+
+Disclaimer: I'm not a doctor; what I know about this comes from talking to
+my psychiatrist and reading sci.med.  
+
+--
+John Werner                          werner@soe.berkeley.edu
+UC Berkeley School of Education      510-596-5868
+",M,M
+"
+
+I want to convert a 500 Volt sinewave with frequency between 1 kHz
+and 10 kHz, to a 10 Volt sinewave with the same frequency, by
+means of a transformer. The secondary current will be .6 A (600 mA).
+
+What kind of transformer should I use (ferrite?)
+Can I buy one? If so, I need a partnumber and supplier
+If I cannot buy one, how do I go about winding one myself?
+What core do I use, how big must it be in order not to saturate,
+what thickness copper wire, how many turns, etc.?
+
+I know little about analog electronics, so I hope some kind
+soul here will help me out.
+Pointers to relevant databooks will also be highly appreciated.
+
+Thanks,
+
+Mark de Rooi
+rooi@tpd.tno.nl
+",E,E
+"
+
+In article <C5JoDH.9IG@news.Hawaii.Edu> lady@uhunix.uhcc.Hawaii.Edu (Lee Lady) writes:
+>
+>Furthermore, the big bucks approach to science promotes what I think is
+>one of the most significant errors in science:  choosing to investigate
+>questions because they can be readily handled by the currently
+>fashionable methodology (or because one can readily get institutional
+>or corporate sponsorship for them) instead of directing attention to
+>those questions which seem to have fundamental significance.
+
+Shades of James Watson!  That's exactly the way many workers have described
+their misgivings about the Human Genome Project.  If you take a rigid 
+definition of scientific research, the mere accumulation of data is not 
+doing science.  One of the early arguments against the project were that the 
+resources would be better used to focus on specific genetics-related 
+problems rather than just going off and collecting maps and sequence.  
+The project can't be so narrowly defined or easily described now though.
+",E,M
+"
+
+The pricing of parts reminds me of something a chemist once said to me:
+
+""A gram of this dye costs a dollar.
+It comes out of a liter jar which also costs a dollar.
+And if you want a whole barrel of it, that also costs a dollar.""
+
+I.e., they charge you almost exclusively for packaging it and delivering
+it to you -- the chemical itself (in that particular case) was a byproduct
+that cost almost nothing intrinsically.
+
+-- 
+:-  Michael A. Covington, Associate Research Scientist        :    *****
+:-  Artificial Intelligence Programs      mcovingt@ai.uga.edu :  *********
+:-  The University of Georgia              phone 706 542-0358 :   *  *  *
+:-  Athens, Georgia 30602-7415 U.S.A.     amateur radio N4TMI :  ** *** **  <><
+",E,E
+"
+
+I repair a lot of monitors here, and I'd like to know where I can get a
+pattern generator (or a circuit for one) that will provide MDA, EGA and VGA
+signals. Using a whole PC to do this takes up too much space on my bench, and
+is somewhat less than portable. I guess I could sit down and design something,
+but I don't have the time right now - any (reasonable) suggestions would be
+appreciated.
+
+TNX
+
+TG
+-- 
+Tony Grimwood, ZL1TTG			""Make no friendship with an elephant
+Biomedical Engineering Services		 keeper, unless you have room to
+University of Auckland			 entertain an elephant.""
+Auckland, New Zealand		       		 == Saadi of Shiraz ==
+",E,E
+"
+
+It would be nice to think that individuals can somehow 'beat the system'
+and like a space explorer, boldly go where no man has gone before and
+return with a prize cure. Unfortunately, too often the prize is limited
+and the efficacy of the 'cure' questionable when applied to all
+sufferers.
+
+This applies to both medical researchers and non-medical individuals.
+Just because it appears in an obscure journal and may be of some use
+does not make the next cure-all. What about the dozens of individuals
+who have courageously participated in clinical trials? Did they have any
+guarentee of cures? Are they any less because they didn't trumpet their
+story all over the world?
+
+As a parting note, wasn't there some studies done on Gingko seeds for
+Meniere's? (To the original poster : what about trying for a trial of
+that? It's probably not a final answer but it certainly may alleviate
+some of the discomfort. And you'd be helping answer the question for
+future sufferers.)
+
+gervais
+
+",E,M
+"
+
+Thanks for the resposes as they were all good ideas and I am looking at using a
+couple of the ideas. I recieved in the mail today the spec sheets on the mil.
+spec version of Exar's XR-2240 timer/counter chip. It is stable down to -50 C
+and sucks very little power. They show an application for a ultra-long time
+delay (up to several years depending on the RC time constant). In this
+application, they have two of them cascaded together. The reset and trigger
+pins of both chips are tied together and the timebase of the second chip is
+disabled. In this configuration, the output is high when the system is reset.
+When triggered, the output goes low and stays that way for a total of 65,536 x
+the timing cycle of the first chip. The total timing cycle of the two chips can
+be programmed from To = 256 x R x C to 65,536 x R x C in 256 steps by selecting
+any combination of the counter outputs to the timer output. The beauty of it
+is, the timebase chip would only have to have a 100uF timing cap and a 391K
+resistor for 39.1 seconds per timing cycle. So I can get a maximum of
+2,562,457.6 seconds between timing cycles (39.1 x 65,536 or about 29 days !)
+Of course, that's much more than I need (14 days). But the counter allows for
+256 binary steps that can be selected for the output for the 'pellet puker'.
+After the first 14 days and it trips, it would reset its self for the next 14
+day timing cycle and so forth.
+
+Power is still a problem though. A few ideas that you suggested was to bury the
+electronics in a hole dug in the snow (as an insulator) and put the pellet
+puker up on a tower above the estimated snow fall with a solar panel on it to
+keep a charge on a lithium battery pack. I like that idea ;-) This thing has to
+work for at least six weeks for three samples and the gas valves are 12 volts
+to spit the pellets out onto the snow. Anyway, I ordered the XR-2240's to see
+what I can do with them. Should be interesting (as long as I'm not the one that
+has to go digging up the pellets in the middle of Antartica freezing my buns
+off ;-)
+
+Thanks again everyone...
+
+-=-= Wes =-=-
+",E,E
+"
+NNTP-Posting-Host: fleming.caltech.edu
+
+I was wondering if anyone knows of a chip that that is similar to
+the internal timer 0 on the Intel 80C188?  I want a timer that has
+a Maxcount A and B and the output should the same as Intel's timer.  I called
+Intel and they told me that they don't make such a chip.  Any suggestions
+are welcome.  Thanks in advance.
+
+Rajan Ranga
+E-mail: rajan@cco.caltech.edu
+",E,E
+"
+
+zjoc01@hou.amoco.com (Jack O. Coats) writes:
+
+>The same folks now have out LBL (Little Big Lan) for $75.  I think you
+>get it for $50 if you already own $25 Network.  LBL works with Arcnet,
+>parallel ports, and serial ports in any combination for up to 250 or so
+>nodes.
+
+    LBL now offers ethernet support also, although presently it is limited
+to NE1000/NE2000 style boards.  LBL owners can get an update for $8.50.
+-- 
+Ray Berry kb7ht ray@ole.cdac.com  rjberry@eskimo.com  73407.3152@compuserve.com
+",E,E
+"
+
+<lots of pretty good stuff about how the huge towers near most nuclear
+power plants are there to cool the used steam back into near ambient
+temperature water deleted>
+
+>>water.  As I recall the water isn't as hot (thermodynamically) in many
+>>fossil fuel plants, and of course there is less danger of radioactive
+>>contamination.
+
+>       Actually, fossil fuel plants run hotter than the usual 
+>boiling-water reactor nuclear plants.  (There's a gripe in the industry
+>that nuclear power uses 1900 vintage steam technology).  So it's
+>more important in nuclear plants to get the cold end of the system
+>as cold as possible.  Hence big cooling towers.  
+
+    as a point of info, some of the early nuclear power plants in this
+country used the fission pile as a first stage to get the water hot, and
+then had a second stage -fossil fuel- step to get the water (actually
+steam) VERY HOT.
+
+   I remember seeing this at Con Edison's Indian Point #1 power plant,
+which is about 30 miles north of NYC, and built more or less 1958.
+
+
+dannyb@panix.com
+
+(all the usual disclaimers apply, whatever they may be)
+
+",E,E
+"
+Message-ID: <1rhb58$9cf@hsdndev.harvard.edu>
+References: <1993Apr23.180430.1@vms.ocom.okstate.edu> <1rgo4b$et4@hsdndev.harvard.edu> <1993Apr26.103242.1@vms.ocom.okstate.edu>
+NNTP-Posting-Host: enterprise.bih.harvard.edu
+
+In article <1993Apr26.103242.1@vms.ocom.okstate.edu>
+ banschbach@vms.ocom.okstate.edu writes:
+>are in a different class.  The big question seems to be is it reasonable to 
+>use them in patients with GI distress or sinus problems that *could* be due 
+>to candida blooms following the use of broad-spectrum antibiotics?
+
+I guess I'm still not clear on what the term ""candida bloom"" means,
+but certainly it is well known that thrush (superficial candidal
+infections on mucous membranes) can occur after antibiotic use.
+This has nothing to do with systemic yeast syndrome, the ""quack""
+diagnosis that has been being discussed.
+
+
+>found in the sinus mucus membranes than is candida.  Women have been known 
+>for a very long time to suffer from candida blooms in the vagina and a 
+>women is lucky to find a physician who is willing to treat the cause and 
+>not give give her advise to use the OTC anti-fungal creams.
+
+Lucky how?  Since a recent article (randomized controlled trial) of
+oral yogurt on reducing vaginal candidiasis, I've mentioned to a 
+number of patients with frequent vaginal yeast infections that they
+could try eating 6 ounces of yogurt daily.  It turns out most would
+rather just use anti-fungal creams when they get yeast infections.
+
+>yogurt dangerous).  If this were a standard part of medical practice, as 
+>Gordon R. says it is, then the incidence of GI distress and vaginal yeast 
+>infections should decline.
+
+Again, this just isn't what the systemic yeast syndrome is about, and
+has nothing to do with the quack therapies that were being discussed.
+There is some evidence that attempts to reinoculate the GI tract with
+bacteria after antibiotic therapy don't seem to be very helpful in
+reducing diarrhea, but I don't think anyone would view this as a
+quack therapy.
+-- 
+David Rind
+rind@enterprise.bih.harvard.edu
+",M,M
+"
+
+In article <1rjpu7INNmij@shelley.u.washington.edu>, kryan@stein.u.washington.edu (Kerry Ryan) writes...
+> 
+>Hello, a friend is under going kemotherapy(sp?) for breast cancer. I'm
+>trying to learn what I can about it. Any info would be appreciated.
+>Thanks.
+
+You've asked a toughie of a question.  There are many different drugs which
+are used for chemotherapy.
+
+The overall purpose of chemotherapy (don't worry about the spelling.  Some of
+these crazy medical words are impossible to spell! :-) is to either destroy
+cancer cells or to keep them from growing.  Different drugs have different
+effects on cancer cells, and therefore, it is not uncommon to use more than
+one drug at a time.
+
+Some chemotherapeutic drugs are effective anytime during the growth cycle
+of a cell.  Others work only at specific times during the cell cycle.
+
+The first phase of the cell cycle is G1; it is when the protein synthesis
+and RNA systhesis occurs.  In the second phase, S, synthesis of DNA occurs.
+The third phase is G2; The DNA splits and RNA and protein are synthesized 
+aagain.  In the fourth phase, M (or Mitosis), the cell may divide.
+
+There are drugs which are effective in each phase.  Some stop DNA synthesis.
+Others stop the cell from dividing. Others wreck protein synthesis.
+At any rate, the end result that is being sought is for the cancer cells
+to stop growing.
+
+If what you are seeking is ""practical"" advice, I apologize for rambling
+on the techno stuff.  Some side effects are pretty common.  Chemo. drugs
+are rather nasty.  It can cause a person to lose their appetite and to 
+experience nausea and vomiting.  Things to help this include eating small
+frequent meals.  It is also suggested that if nausea/vomiting (hereafter
+known as n/v) occurs that the person notify the doctor; there are medicines
+tthat help nausea.  Diarrhea can be an effect.  Antidiarrheal medications 
+can be given, and good skincare and fluid intake are important.
+
+Probably the one of biggest concsern is hair loss.  This does not always
+happen.  It depends on what drugs are being given, and on the person 
+themself.  Different people taking the same drug can and do have different
+side effects.  I have seen some literature which states that wearing a snug
+headband and/or wearing an ice cap can help reduce hair loss, presumably
+by reducing blood flow to the scalp.  If anyone has seen research on this
+too, I would love to see it, and possibly some bib data.
+
+I highly recommend making contact with the American Cancer Society.
+They have a vast selection of literature and information.  In addition,
+if your friend has had a mastectomy, I highly recommend ""Reach for Recovery"".
+It is a support group comprised entirely of women who have lost a breast 
+because of cancer.  They can offer some excellent support and suggestions.
+
+If you have further questions, please send me E-mail.  I hav some good
+access to information, and I enjoy trying to help other people.
+
+I wish the best to you and your friend.
+
+
+",M,M
+"
+
+In article <1993Apr13.164924.2606@wuecl.wustl.edu> dp@cec1.wustl.edu (David Prutchi) writes:
+>Can circuits found in electronics magazines (with no patent disclaimer)
+>be used legally as subcircuits of a commercial unit ?
+
+There are two issues here:  copyright and patent.
+
+The magazine article's contents are copyrighted, and may not be reproduced,
+translated, etc., without the copyright holder's permission.  However, this
+does not cover the *ideas* expressed, only the form of expression.  Copying
+their circuit diagram or PC-board pattern is copyright infringement.  But
+it's unlikely that they could stretch copyright far enough to claim that
+the circuit design itself is copyrighted.  So long as you draw your own
+diagrams and lay out your own boards, copyright shouldn't be an issue.
+
+Patents are different.  The author does *not* have to give you any warning
+that the design is covered by patent (although it would be sensible for
+him to do so).  In fact, it's possible that *he* was infringing on someone
+else's patent without realizing it.  Ignorance of the patented status is
+not a defence against infringement, although it might reduce the damages
+a court would award.
+
+However... unless there was something seriously novel about the circuit,
+almost certainly it is ""obvious to one skilled in the art"" and therefore
+unpatentable.  Routine engineering is not patentable; patents (in theory)
+cover only inventions, ideas that are genuinely new.
+
+Caution:  I am not a lawyer.  Consulting a professional would be wise if
+significant amounts of money are at stake.
+-- 
+All work is one man's work.             | Henry Spencer @ U of Toronto Zoology
+                    - Kipling           |  henry@zoo.toronto.edu  utzoo!henry
+",E,E
+"
+Message-ID: <kft0iiC00YUnQ7wWEa@andrew.cmu.edu>
+NNTP-Posting-Host: andrew.cmu.edu
+
+I've read that exercise makes the heart pump more blood at a stroke, and
+that it also makes the heart pumb slower, in order to make up for the
+greater volume. My Internist, who diagnosed my AV block, slow heart rate
+and PVC's, told me something different. She says that heart rate is
+associated with the electrical properties of the hear muscle, not its
+size. Exercise lowers heart rate and increases stroke volume, but the
+effects are unrelated except for their common source. The AV block, she
+asserts, is another electrical effect, which is irreversable - even when
+exercise is dicontinued. PVC's are also common in runners. 
+
+So my EKG puts me in a class with trained athletes and also with heart
+patients. Isn't that strange, though? Are there any not-so-beneficial
+aspects to athlete's heart? Is it all good?
+
+Not worried, just curious,
+-Larry C. 
+",M,M
+"
+
+
+Radio Shack has canceled their ""Battery of the Month"" Club.  Does 
+anyone know why?  
+
+They say they'll honor existing cards in customer hands, but no new
+cards will be issued.
+
+Don Montgomery
+donrm@sr.hp.com
+
+",E,E
+"
+Sender: mossman@mania (Amy Mossman)
+Distribution: world
+Message-ID: <1qkdpk$5k6@agate.berkeley.edu>
+References: <13APR199308003715@delphi.gsfc.nasa.gov> <1993Apr13.144340.3549@news.cs.brandeis.edu> <1993Apr14.012946.114440@zeus.calpoly.edu> <1993Apr14.122647.16364@tms390.micro.ti.com> <1993Apr15.135941.16105@lmpsbbs.comm.mot.com>
+NNTP-Posting-Host: mania.cea.berkeley.edu
+
+In article <1993Apr15.135941.16105@lmpsbbs.comm.mot.com>, dougb@comm.mot.com (Doug Bank) writes:
+|> 
+|> Here is another anecdotal story.  I am a picky eater and never wanted to 
+|> try chinese food, however, I finally tried some in order to please a
+|> girl I was seeing at the time.  I had never heard of Chinese restaurant
+|> syndrome.  A group of us went to the restaurant and all shared 6 different
+|> dishes.  It didn't taste great, but I decided it wasn't so bad.  We went
+|> home and went to bed early.  I woke up at 2 AM and puked my guts outs.
+|> I threw up for so long that (I'm not kidding) I pulled a muscle in
+|> my tongue.  Dry heaves and everything.  No one else got sick, and I'm
+|> not allergic to anything that I know of.  
+|> 
+|> Suffice to say that I wont go into a chinese restaurant unless I am 
+|> physically threatened.  The smell of the food makes me ill (and that *is*
+|> a psycholgical reaction).  When I have been dragged in to suffer
+|> through beef and broccoli without any sauces, I insist on no MSG.  
+|> I haven't gotten sick yet.
+|> 
+|> -- 
+
+I had a similar reaction to Chinese food but came to a completly different
+conclusion. I've eaten Chinese food for ages and never had problems. I went
+with some Chinese Malaysian friends to a swanky Chinses rest. and they ordered
+lots of stuff I had never seen before. The only thing I can remember of that
+meal was the first course, scallops served in the shell with a soy-type sauce.
+I thought, ""Well, I've only had scallops once and I was sick after but that
+could have been a coincidence"". That night as I sat on the bathroom floor,
+sweating and emptying my stomach the hard way, I decided I would never touch
+another scallop. I may not be allergic but I don't want to take the chance.
+
+Amy Mossman
+",M,M
+"
+
+In article <1993Apr15.100452.16793@csx.cciw.ca>, u009@csx.cciw.ca (G. Stewart Beal) writes:
+|> >	I was wondering if people had any good uses for old
+|> >256k SIMMs.  I have a bunch of them for the Apple Mac
+|> >and I know lots of other people do to.  I have tried to
+|> >sell them but have gotten NO interest.
+
+We use them as Christmas tree decorations, the cat doesn't eat these.
+
+-- 
+
+	...Wex
+",E,E
+"
+
+In article <1qihcl$9ri@usenet.INS.CWRU.Edu> ae454@cleveland.Freenet.Edu (Paul Simundza) writes:
+>
+>
+>anyone know of any good supplier's of chips, one that could have almost
+>any chip i need? I don't want to hunt down all the chips I may need so
+>it would be greatly appreciated if anyone knows of a good distributor
+>..
+>thankyou
+>
+
+Paul,
+
+Unfortunately, there are not too many retail outlets that'll stock
+just about every chip made.  The stuff they will stock are the ones
+that'll sell, like standard DRAM's, 80386's, 68000's, etc,etc.
+i.e.  I cna't think of any 'one-stop-shopping' store.
+
+The closest you can get is to pick up a copy of Byte magazine or
+the Circuit Cellar, Popular Electronics, and the like and flip
+through them.
+
+Distributors like Wyle Electronics, Hamilton Avnet, Pioneer Electronics,
+etc, etc, don't normally deal with end-users like ourselves where
+we only a couple of everything...they only deal with people who buy
+by the hundreds or more.  Each distributor represents and sells a variety of
+different non-competing manufacturers.  What do I mean by this?
+Suppose ABC Electronics sells Intel 80386's.  It's a pretty good
+bet that they won't be selling any of AMD's 386's, or vice-versa.
+They also can obtain just about *any* chip you want from a manufacturer
+they represent.
+
+Who knows?  You might be lucky to be able to buy from one of them.
+But I'd be suprised if you do.  ALso bear in mind that the 1 or 2
+qty prices they will charge you will be *much* greater than what
+a mail order outlet will charge.
+
+My advice?  If you're gonna be designing anything, try to stick
+with off-the-shelf stuff.  You're going to get stuck if you use
+too many esoteric parts sooner or later.
+
+good luck,
+
+aaron
+
+",E,E
+"
+
+I experienced a sudden numbness in my left arm this morning.  Just after
+I completed my 4th set of deep squats.  Today was my weight training
+day and I was just beginning my routine.  All of a sudden at the end of
+the 4th set my arm felt like it had gone to sleep.  It was cold, turned pale,
+and lost 60% of its strength.  The weight I used for squats wasn't that
+heavy, I was working hard but not at 100% effort.  I waited for a few 
+minutes, trying to shake the arm back to life and then continued with
+chest exercises (flyes) with lighter dumbells than I normally use.  But
+I dropped the left dumbell during the first set, and experienced continued
+arm weakness into the second.  So I quit training and decided not to do my
+usual hour on the ski machine either.  I'll take it easy for the rest of
+the day.
+
+My arm is *still* somewhat numb and significantly weaker than normal --
+my hand still tingles a bit down to the thumb. Color has returned to normal
+and it is no longer cold. 
+
+Horrid thoughts of chunks of plaque blocking a major artery course through
+my brain.  I'm 34, vegetarian, and pretty fit from my daily exercise
+regimen.  So that can't be it.  Could a pinched nerve from the bar
+cause these symptoms (I hope)?
+
+Has this happened to anyone else?
+Nothing like this has ever happened to me before.  Does it come with age?
+
+Thanks,
+Tom
+-- 
+Tom Molnar
+Unix Systems Group, University of Toronto Computing & Communications.
+",E,M
+"
+
+This request goes out to medical students who have done
+or are planning to sit the USMLE (or National Boards) Part 1.
+
+My wife is sitting this examination in early June this year and would
+like to have a look at some old National Boards, Part 1 questions
+found in the following books. These books are currently out of print.
+ 
+
+The books are:
+
+(1) Retired NBME Basic Medical Science Test Items, NBME;
+    Published by NBME in 1991
+
+(2) Self-test in the Part 1 Basic Medical Sciences, NBME;
+    Published by NBME in 1989
+
+I would appreciate if anyone who has these books is willing
+to loan it to her for a couple of days. Obviously, I would
+reimburse for you all postage and related charges. Failing
+that it would be beneficial if anyone could point to any
+library in the NY, NJ or PA area that may have these books.
+
+Please respond by e-mail since I do not read this newsgroup
+regularly.
+
+Thanks in advance.
+
+
+Daniel
+
+
+e-mail: daniel@learning.siemens.com
+
+",E,M
+"
+
+If anyone has any information on this deficiency I would very greatly
+appreciate a response here or preferably by Email.  All I know at this
+point is a deficiency can cause myoglobin to be released, and in times
+of stress and high ambient temperature could cause renal failure.
+x
+",E,M
+"
+
+In article <C5qMJJ.yB@ampex.com> jag@ampex.com (Rayaz Jagani) writes:
+
+>
+>From Miranda Castro, _The Complete Homeopathy Handbook_,
+>ISBN 0-312-06320-2, oringinally published in Britain in 1990.
+>
+>From Page 10,
+>.. and in 1946, when the National Health Service was established,
+>homeopathy was included as an officially approved method
+>of treatment.
+
+I was there in 1976.  I suppose it must have died out since 1946,
+then.  Certainly I never heard of any homeopaths or herbalists in
+the employ of the NHS.  Perhaps the law codified it but the authorities
+refused to hire any homeopaths.  A similar law in the US allows
+chiropractors to practice in VA hospitals but I've never seen one
+there and I don't know of a single VA that has hired a chiropractor.
+There are a lot of Britons on the net, so someone should be able to
+tell us if the NHS provides homeopaths for you.
+
+
+-- 
+----------------------------------------------------------------------------
+Gordon Banks  N3JXP      | ""Skepticism is the chastity of the intellect, and
+geb@cadre.dsl.pitt.edu   |  it is shameful to surrender it too soon."" 
+----------------------------------------------------------------------------
+",M,M
+"
+
+These circuits abound in most electronic project books.  If you're more
+inclined to buy something, try Radio Shack.  I think they still have a
+device that is designed to disconnect an answering machine when an
+extension line is lifted.  It has LED indicators also. 
+
+--kyler
+",E,E
+"
+
+I have a stereo compressor-limiter by 
+Audio Logic (Model MT-66).  The gates work,
+but the compressor seems to be gone on one
+channel, and very weak on the other.  
+
+I'll probably need an ocsilloscope to trace it
+down (no pun intended), but if any one with
+experience with this type of equipment could
+point me in a certain direction as to where the 
+circuit is most likely to fail, I'd sure appreciate it.
+
+
+-- 
+Robert C. Stephens		rob@dexter.psych.umn.edu		
+
+Human Factors Research Lab
+University of Minnesota
+
+",E,E
+"
+Nntp-Posting-Host: cimill
+
+In article <734953838.AA00508@insane.apana.org.au>,
+peter.m@insane.apana.org.au (Peter Tryndoch) writes...
+>AllThe Devil ReincarnateSWR meter for CB radios
+> 
+>TD>From: ssave@ole.cdac.com (The Devil Reincarnate)
+>TD>Organization: CDAC, WA
+>TD>What
+>TD>is a good choice for a CB? 1/4 or 1/8 wave?
+>TD>  I read the installation instructions on a 1/4 wave antenna,
+>TD>and they suggested that I use an SWR to tune it at channel 12
+>TD>and channel 32 for a minimum reading.  Question is, why channel
+>TD>12 and 32?
+
+>The best antenna is one that will let out the most wave (probably not the 
+>best explanation, but the rest makes sense) A one wave will cancell itself 
+>out (BTW no such beastie).
+	Yes there is.  Not common for CB.  The pattern is different (sort of
+	a cloverleaf, with four main lobes.
+
+> The best is a 1/2 wave antenna, followed by 1/4, then 1/8 etc.
+	Use of anything under 1/4 wave for transmitting is very uncommon.  (The
+	usual ""rubber duck"" uses a coil to fool itself into looking like a
+	quarter wave.
+	I reccomend the ARRL Antenna Handbook, or a good basic book.
+
+thanks
+dave pierson			|the facts, as accurately as i can manage,
+Digital Equipment Corporation	|the opinions, my own.
+40 Old Bolton Rd		|I am the NRA
+Stow, Mass 01775 USA		|pierson@msd26.enet.dec.com
+""He has read everything, and, to his credit, written nothing.""  A J Raffles
+",E,E
+"
+
+Hi,
+I've got a PACE MODEM , Series Four 2400s ( made in England by
+PACE Micro Technology ) with a broken power supply .
+So I'd like to know :
+
+- the voltage and current values of the original 
+  power supply PS1001.
+- the pinout of the power supply connector.
+- the pinout of the USER PORT and how to use it.
+
+Many thanks in advance to all the people help me.
+Please post the reply also to my e-mail..........
+
++--------------------------------------------------+
+|                                                  |
+|  Sender: Stefano Mora                            |
+|  eMail : mora@verdi.eng.unipr.it                 |
+|                                                  |
++--------------------------------------------------+
+",E,E
+"
+X-Maildoor: WaflineMail 1.00r
+
+{Kris Gleason} said
+   ""Re: what to do with old 2""
+      to <All> on 04-15-93  11:02
+ KG> Yeah... keychains.  I have seen 64K simms with a silver 
+ KG> keyring attached, big seller at the computer store.  I'm
+ KG> sure you could find a bunch of geeks^H^H^H^H^H^H computer
+ KG> science majors around that would buy them for $10.  Maybe
+ KG> $15, if you're lucky.
+
+    Untrue they would check JDR first and say 5.  That's how much
+    they are worth AT MOST.  My guess is they are worth 1 buck
+    a peice.
+
+                Stephen Cyberman@Toz.Buffalo.NY.US
+             Mangled on Sat  04-17-1993  at 20:26:37
+
+... This tagline is a duplicate.   This tagline is a duplicate.
+___ Blue Wave/QWK v2.12
+                                                                     
+",E,E
+"
+NNTP-Posting-Host: pixel.cellbio.mcw.edu
+rganization: Medical College of Wisconsin
+
+
+In article <C67G01.2J1@efi.com> alanm@efi.com (Alan Morgan) writes:
+>In article <C65oIL.436@vuse.vanderbilt.edu> 
+>  alex@vuse.vanderbilt.edu (Alexander P. Zijdenbos) writes:
+>
+>>I am neither a real believer, nor a disbeliever when it comes to
+>>so-called ""paranormal"" stuff; but as far as I'm concerned, it is just
+>>as likely as the existence of, for instance, a god, which seems to be
+>>quite accepted in our societies - without any scientific basis.
+>
+>Oooooh.  Bad example.  I'm an atheist.
+>
+This is not flame, or abuse, nor do I want to start another thread (this
+is, after all, supposed to be about IMAGE PROCESSING).
+
+BUT, to say you're an atheist is to suggest you have PROOF there is NO GOD.
+To be a politically-correct skeptic, better to go with agnostic, like me! :)
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+*Dr. Thomas Trusk                    *                              *
+*Dept. of Cellular Biology & Anatomy * Email to ttrusk@its.mcw.edu  *
+*Medical College of Wisconsin        *                              *
+*Milwaukee, WI  53226                *                              *
+*(414) 257-8504                      *                              *
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*==*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+",M,M
+"
+Message-ID: <1r9j33$4g8@hsdndev.harvard.edu>
+References: <1993Apr22.153000.1@vms.ocom.okstate.edu>
+NNTP-Posting-Host: enterprise.bih.harvard.edu
+
+In article <1993Apr22.153000.1@vms.ocom.okstate.edu>
+ banschbach@vms.ocom.okstate.edu writes:
+>poster for being treated by a liscenced physician for a disease that did 
+>not exist.  Calling this physician a quack was reprehensible Steve and I 
+>see that you and some of the others are doing it here as well.  
+
+Do you believe that any quacks exist?  How about quack diagnoses?  Is
+being a ""licensed physician"" enough to guarantee that someone is not
+a quack, or is it just that even if a licensed physician is a quack,
+other people shouldn't say so?  Can you give an example of a
+commonly diagnosed ailment that you think is a quack diagnosis,
+or have we gotten to the point in civilization where we no longer
+need to worry about unscrupulous ""healers"" taking advantage of
+people.
+-- 
+David Rind
+rind@enterprise.bih.harvard.edu
+",M,M
+"
+
+
+I am interfacing some simple circuits that run on 9V to my
+cpu board which runs at 5-6V.  The optoisolator is a 4N35.
+On the led side, I put the signal I want through a 10k resistor
+to the base of a 2N2222.  On the transistor side, I tie my
+cpu input line to the collector which has a pull-up resistor
+of 47k.
+
+It functions OK, but seems VERY slow.  I can detect pulses
+that occur at about 2kHz, but not much faster.  Isn't the
+rise/fall time of this device, something like 5uS?  I should
+be able to detect my target of 40kHz, but I can't get 16kHz.
+This is done using wire-wrap and the wires going to the cpu
+and to the test pin are about 8 inches long, but I'm not
+doing anything high-speed.
+
+In the Art of Electronics, it mentions tying the base of the
+phototransistor to ground through a resistor to improve the
+speed.  Is that what I need to do?  How do I calculate the
+resistor value?
+
+
+-- 
+
+Paul Malenfant
+pmalenfa @ kitkat.webo.dg.com (508-870-6460)
+",E,E
+"
+
+dyer@spdcc.com (Steve Dyer) writes:
+
+>In article <1qnns0$4l3@agate.berkeley.edu> spp@zabriskie.berkeley.edu (Steve Pope) writes:
+>>The mass of anectdotal evidence, combined with the lack of
+>>a properly constructed scientific experiment disproving
+>>the hypothesis, makes the MSG reaction hypothesis the
+>>most likely explanation for events.
+
+>You forgot the smiley-face.
+
+>I can't believe this is what they turn out at Berkeley.  Tell me
+>you're an aberration.
+
+>-- 
+>Steve Dyer
+>dyer@ursa-major.spdcc.com aka {ima,harvard,rayssd,linus,m2c}!spdcc!dyer
+ 
+HEY, KEEP YOUR FU---NG FLAMING OUT OF THIS GROUP- THAT GOES FOR YOU, MR.
+DYER, AS WELL AS SEVERAL OTHER NASTY, SARCASTIC PEOPLE, REGARDING THIS
+SUBJECT.  Shoot, now I'm all riled up, too, and I was just going to ask if
+we can keep our discussion about MSG a little more civil; blasting a school
+or an idea through simple insults as demonstrated above is not necessary,
+and otherwise out of line.  If you want to continue your insult war, take
+it elsewhere and stop wasting everyone else's time.
+Most sincerely,
+	Dan Checkman
+",M,M
+"
+
+In article <93119.141946U18183@uicvm.uic.edu>, <U18183@uicvm.uic.edu> writes:
+|>   There is no data to show chromium is effective in promoting weight loss.  The
+|>  few studies that have been done using chromium have been very flawed and inher
+|> ently biased (the investigators were making money from marketing it).
+|>   Theoretically it really doesnt make sense either. The claim is that chromium
+|> will increase muscle mass and decrease fat.  Of course, chromium is also used t
+|> o cure diabetes, high blood pressure and increase muscle mass in athletes(just
+|> as well as anabolic steroids). Sounds like snake oil for the 1990's :-)
+
+
+
+Where are your references?  I have been unable to find studies that state
+that chromium ""cures diabetese"".  It can reduce the amount of insulin you
+have to take.  ""High blood pressure"" - I have never heard of this claim
+before.  ""... anabolic steroids"" - I have also never heard of this claim
+before.  Sounds like you are making things up and stretching the truth
+for God knows what reason.  Did somebody piss you off at one time?
+
+
+
+|>  On the other hand, it really cant hurt you anywhere but your wallet, and place
+|> bo effects of anything can be pretty dramatic...
+
+
+
+I agree with you that chromium picolinate by itself isn't likely
+to make a fat person thin.  But it can be the decisive component
+of an overall strategy for long-term weight control and make an
+important contribution to good health.  It is important to
+exercise (11, 12) and also avoid fat calories (9, 10).
+
+Chromium picolinate has shown to reduce fat and increase
+lean muscle (1, 2, 3).  I will not bore you with the
+statistics.  You wouldn't believe these anyway.
+
+Chromium Picolinate is an exceptionally bioactive source of
+the essential mineral chromium.  Chromium plays a vital role
+in ""sensitizing"" the body's tissues to the hormone insulin.
+Weight gain in the form of fat tends to impair sensitivity
+to insulin and thus, in turn, makes it harder to lose
+weight (4).
+
+Insulin directly stimulates protein synthesis and retards
+protein breakdown in muscles (5, 6).  This ""protein sparing""
+effect of insulin tends to decline during low calorie diets
+as insulin levels decline, which results in loss of muscle
+and organ tissue.  By ""sensitizing"" muscle to insulin,
+chromium picolinate helps to preserve muscle in dieters
+so that they ""burn"" more fat and less muscle.  Preservation
+of lean body mass has an important long-term positive
+effect on metabolic rate, helping dieters keep off the
+fat they've lost.
+
+Chromium picolinate promotes efficient metabolism by aiding
+the thermogenic (heat producing) effects of insulin.
+Insulin levels serve as a rough index of the availability
+of food calories, so it's not at all surprising that insulin 
+stimulates metabolism (4, 7, 8).  Note that I did not say
+that chromium picolinate increases metabolism.
+
+In summary, you need to change your life style in order to
+loose weight and stay healthy:
+
+  A. Reduce dietary fat consumption to no more than 20% of calories.
+     - Eating fat makes you fat.
+
+  B. Increase dietary fiber
+     - low in calories; high in nutrients.
+
+  C. Get regular aerobic exercise at least 3 times a week
+     - burn calories.
+
+  D. Take chromium picolinate daily
+     - lose fat; keep muscle
+
+
+References:
+
+1.  Kaats GR, Fisher JA, Blum K. Abstract, American Aging
+    Association, 21st Annual Meeting, Denver, October 1991.
+2.  Evans, GW. Int J Biosoc Med Res 1989; 11: 163-180.
+3.  Page TG, Ward TL, Southern LL. J Animal Sci 69, Suppl 1:
+    Abstract 403, 1991.
+4.  Felig P. Clin Physiol 1984; 4: 267-273.
+5.  Kimball SR, Jefferson LS. Diabetes Metab Rev 4: 773, 1988.
+6.  Fukugawa NK, Minaher KL, Rowe JW. et al. J Clin Invest 76:
+    2306, 1985.
+7.  Fehlmann M, Freychet P. Biol Chem 256: 7449, 1981
+8.  Pittman CS, Suda AK, Chambers JB, Jr., Ray GY. Metabolism
+    28: 333, 1979.
+9.  Danforth E, Jr. Am J Clin Nutr 41: 1132, 1985.
+10. McCarty MF. Med Hypoth 20: 183, 1986.
+11. Bielinski R, Schutz Y, Jequier E. Am J Clin Nutr 42:69, 1985.
+12. Young JC, Treadway JL, Balon TW, Garvas HP, Ruderman NB.
+    Metabolism 35: 1048, 1986.
+
+
+Best regards,
+Michael Vincze
+mav@asd470.dseg.ti.com
+
+",M,M
+"
+
+In article <C5EJL7.LIn@news2.cis.umn.edu> Mike Diack <mike-d@staff.tc.umn.edu> writes:
+-In article <C5DGG7.5ox@wang.com> , pvr@wang.com writes:
+->   Who sells the special carbide drills used to drill pc boards?
+->I am looking for sizes smaller than #60, #65 or #70 would be good.
+
+-best deal i ever saw on carbides was at ELI electronics - Cambridge
+-Mass. Quite close to MIT, #70 drills @ $5.00 for a box of 50. ELI are
+-in the Boston fone book.
+
+Actually, I think they are all #57.  Their phone number is 617 547 5005
+and I will probably have some over at the MIT Flea this Sunday.
+/mike
+
+
+-- 
+\|/     Michael L. Ardai     N1IST             Teradyne ATG Boston
+--- -------------------------------------------------------------------------
+/|\                    ardai@maven.dnet.teradyne.com
+",E,E
+"
+
+In article <136390006@hpcuhe.cup.hp.com>, pi@hpcuhe.cup.hp.com (Paul Ilgenfritz) writes:
+> 
+> I think the Go Video dual cassette machines do a direct tape to tape copy
+> which transfers Macrovision to the copy.  I you can find one of these, it
+> would be worth a try.
+
+Go-Video machines used in HQ2 mode will copy even the MacroVision.
+Go-Video phone number (602)998-3400. 
+
+Ask for sales department. Since the state of Arizona does not go on 
+Daylight Savings time, we effectively are in Pacific time zone.
+
+Allen Sullivan
+Designing various stuff for GO-Video
+",E,E
+"
+
+
+	My brother's affine has recently been diagnosed with Sweet's
+syndrome. Also called steroid resistant Sweet's syndrome.
+
+	This syndrome started after she had had Iodine 131 treatment for
+hyperthyroidism. She'd been reluctant to have treatment for the
+hyperthyroidism for many years and apparently started to show exaustion
+from it. 
+
+	I understand that she may still be testing high in thyroid level
+but she's isn't being treated by an endocrinologist. Her previous
+endocrinologist bowed out when she entered the hospital. She entered the
+hospital because of the Sweet's syndrome symptoms (skin lesions).
+
+I've looked through the last two years of Medline and didn't find an
+abstract mentioning a correlation between thyroid and Sweets. . 
+
+I checked a handbook which said that Sweet's was associated with leukemia.
+
+I'd like a reccomndation for experts who are in New York City or who travel
+to New York City. For the sweets and perhaps for the endocrinology.
+
+Any information that might help. Apparently there hasn't been much
+improvement in her condition over the past several months. 
+
+-Jackie-
+
+ 
+",M,M
+"
+
+In article <79738@cup.portal.com>, mmm@cup.portal.com (Mark Robert Thorson) writes...
+
+>This reminds me of the last Graham Kerr cooking show I saw.  Today he
+>smoked meat on the stovetop in a big pot!  He used a strange technique
+>I'd never seen before.
+> 
+>He took a big pot with lid, and placed a tray in it made from aluminum foil.
+>The tray was about the size and shape of a typical coffee-table ash tray,
+>made by crumpling a sheet of foil around the edges.
+> 
+>In the tray, he placed a couple spoonfuls of brown sugar, a similar
+>quantity of brown rice (he said any rice will do), the contents of two
+>teabags of Earl Grey tea, and a few cloves.
+> 
+>On top of this was placed an ordinary aluminum basket-type steamer, with
+>two chicken breasts in it.  The lid was put on, and the whole assembly
+>went on the stovetop at high heat for 10 or 12 minutes.
+> 
+>Later, he removed what looked like smoked chicken breasts.  What surprises
+>and concerns me are:
+> 
+>1)  No wood chips.  Where does the smoke flavor come from?
+> 
+>2)  About 5 or 10 years ago, I remember hearing that carmel color
+>    (obtained by caramelizing sugar -- a common coloring and flavoring
+>    agent) had been found to be carcinogenic.  I believe they injected
+>    it under the skin of rats, or something.  If the results were conclusive,
+>    caramel color would not be legal in the U.S., yet it is still being
+>    used.  Was the initial research result found to be incorrect, or what?
+> 
+>3)  About 5 or 10 years ago, I remember Earl Grey tea being implicated
+>    as carcinogenic, because it contains oil of bergamot (an extract
+>    from the skin of a type of citrus fruit).  Does anyone know whatever
+>    happened with that story?  If it were carcinogenic, Earl Grey tea
+>    could not have it as an additive, yet it apparently continues to do
+>    so.
+> 
+>WRT natural wood smoke (I've smoking a duck right now, as it happens),
+>I've noticed that a heavily-smoked food item will have an unpleasant tangy
+>taste when eaten directly out of the smoker if the smoke has only recently
+>stopped flowing.  I find the best taste to be had by using dry wood chips,
+>getting lots of smoke right up at the beginning of the cooking process,
+>then slowly barbequing for hours and hours without adding additional wood chips.
+> 
+>My theory is that the unpleasant tangy molecules are low-molecular weight
+>stuff, like terpenes, and that the smoky flavor molecules are some sort
+>of larger molecule more similar to tar.  The long barbeque time after
+>the initial intensive smoke drives off the low-molecular weight stuff,
+>just leaving the flavor behind.  Does anyone know if my theory is correct?
+> 
+>I also remember hearing that the combustion products of fat dripping
+>on the charcoal and burning are carcinogenic.  For that reason, and because
+>it covers the product with soot and some unpleasant tanginess, I only grill
+>non-drippy meats like prawns directly over hot coals.  I do stuff like this
+>duck by indirect heat.  I have a long rectangular Weber, and I put the coals
+>at one end and the meat at the other end.  The fat drops directly on the
+>floor below the meat, and next time I use the barbeque I make the fire
+>in that end to burn off the fat and help ignite the coals.
+> 
+>And yet another reason I've heard not to smoke or barbeque meat is that
+>smoked cured meat, like pork sausage and bacon, contains
+>nitrosamines, which are carcinogenic.  I'm pretty sure this claim actually
+>has some standing, don't know about the others.
+> 
+>An amusing incident I recall was the Duncan Hines scandal, when it was
+>discovered that the people who make Duncan Hines cake mix were putting
+>a lot of ethylene dibromide (EDB) into the cake mix to suppress weevils.
+>This is a fumigant which is known to be carcinogenic.
+>The guy who represented the company in the press conference defended
+>himself by saying that the risk from eating Duncan Hines products every day
+>for a year would be equal to the cancer risk from eating two charcoal-
+>broiled steaks.  What a great analogy!  When I first heard that, my
+>immediate reaction was we should make that a standard unit!  One charcoal
+>broiled steak would be equivalent to 0.5 Duncans!
+
+I don't understand the assumption that because something is found to
+be carcinogenic that ""it would not be legal in the U.S."".  I think that
+naturally occuring substances (excluding ""controlled"" substances) are
+pretty much unregulated in terms of their use as food, food additives
+or other ""consumption"".  It's only when the chemists concoct (sp?) an
+ingredient that it falls under FDA regulations.  Otherwise, if they 
+really looked closely they would find a reason to ban almost everything.
+How in the world do you suppose it's legal to ""consume"" tobacco products
+(which probably SHOULD be banned)?
+
+	Dave Allen
+	Space Science & Engr. Ctr.
+	UW-Madison
+",E,M
+"
+
+In article <1993Apr22.001642.9186@omen.UUCP> caf@omen.UUCP (Chuck Forsberg WA7KGX) writes:
+
+>>>>Can you provide a reference to substantiate that gaining back
+>>>>the lost weight does not constitute ""weight rebound"" until it
+>>>>exceeds the starting weight?  Or is this oral tradition that
+>>>>is shared only among you obesity researchers?
+>>>
+>>>Annals of NY Acad. Sci. 1987
+>>>
+>>Hmmm. These don't look like references to me. Is passive-aggressive
+>>behavior associated with weight rebound? :-)
+>
+>I purposefully left off the page numbers to encourage the reader to
+>study the volumes mentioned, and benefit therefrom.
+>
+
+Good story, Chuck, but it won't wash.  I have read the NY Acad Sci
+one (and have it).  This AM I couldn't find any reference to
+""weight rebound"".  I'm not saying it isn't there, but since you
+cited it, it is your responsibility to show me where it is in there.
+There is no index.  I suspect you overstepped your knowledge base,
+as usual.
+
+
+
+
+
+
+
+
+-- 
+----------------------------------------------------------------------------
+Gordon Banks  N3JXP      | ""Skepticism is the chastity of the intellect, and
+geb@cadre.dsl.pitt.edu   |  it is shameful to surrender it too soon."" 
+----------------------------------------------------------------------------
+",M,M
+"
+
+michael@iastate.edu (Michael M. Huang) writes:
+
+> MSG is common in many food we eat, including Chinese (though some oriental
+> restaurants might put a tad too much in them).  I've noticed that when I
+> go out and eat in most of the Chinese food restaurants, I will usually get
+> a slight headache and an ununsual thirst afterwards.  This happens to many
+> of my friends and relatives too.  And, heh, we eat Chinese food all the
+> time at home :) (but we don't use MSG when we're cooking for ourselves)
+
+        Heck, I seem to feel like that *every* time I eat out. Including 
+in the cafeteria at work. About half the time, the headache intensifies 
+until nothing will make it go away except throwing up. Ick.
+
+        As you might imagine, I don't eat out a lot. I guess my tolerance 
+for food additives has plummeted since I switched to eating mostly 
+steamed veggies. They're easy to fix, that's all.
+
+        I won't even mention what happened the last time I ate corned 
+beef. (Oops. Too late.)
+
+
+ The Graphics BBS  908/469-0049  ""It's better than a sharp stick in the eye!"" 
+ ============================================================================
+ Internet: lim@graphics.rent.com (Julie Lim)
+     UUCP: rutgers!bobsbox!graphics!lim
+",M,M
+"
+Message-ID: <1qs0qi$9ll@usenet.INS.CWRU.Edu>
+NNTP-Posting-Host: slc10.ins.cwru.edu
+
+
+I recently bought an apparantly complete Expansion Chassis by Mountain
+Computer Inc.  It consists of a box with 8 Apple ][+ compatible slots,
+powersupply brick, interface card and ribbon cable to attach it to the computer
+to be expanded.  There was also included a small card with empty sockets on top
+and pins on the bottom that looks like it would plug into the ][+ motherboard
+somewhere after pulling a chip.  There's an empty socket also on the interface
+card and a short 16-pin DIP jumper like the ones used with ][+ language cards.
+ 
+This technological marvel came with no docs and I haven't a clue as how to hook
+this thing up.  If anyone has docs and/or users disk of any sort for this I
+could really use copies of them or at least some help.
+ 
+I need to know:
+ 
+o How to orient the ribbon cable between the card and the chassis.
+o How to attach the short cable from the motherboard to the card
+  and if the small card is used.
+o The purposes of the various jumper-pins on the card (it has more
+  of those than my CMS SCSI card!)
+ 
+ 
+thanks                                          John Daniels
+                                                ah499@cleveland.freenet.edu
+ 
+",E,E
+"
+
+
+I was having a look through a couple of components catalogues when I
+came across a range of Peltier Effect heat pumps intended for cooling
+components.  For those who have not heard of this effect, you put a
+current through one of these devices, and it pumps heat from one side
+to the other.  Reverse the current and you reverse the effect.  I
+think a temperature difference can give you an EMF as well.
+
+Anyway, it struck me that you could make a nice cool/hot box for
+picnics with one of these, a power regulator, a thermostat and a
+couple of heat sinks.  The biggest device can shift 60W with an
+efficiency of 80-90%, which ain't bad (although it would flatten my
+car battery in about half an hour).
+
+Unfortunately the catalogue didn't list anything more than the basic
+specs as a heat pump.  I imagine that you would get a back-EMF as the
+temperature gradient across the device increases.  If so, presumably
+its power decreases as the back-EMF increases, until eventually we
+have a steady state with no current being consumed (assuming no
+leakage).  If so, then the final temperature difference between the
+two sides could be set by the supply voltage and nothing more
+(although that would be a lousy way to control it).
+
+What I would like to know is:
+
+1: Are the above guesses correct?
+
+2: What is the open-circuit thermal resistance of a typical device?
+   (I just want to be sure that my coolbox is not going to get warm
+   too fast when I unplug it)
+
+3: How does a Peltier Effect heat pump actually work?  It looks like
+   magic!
+
+4: Why don't they use these things in domestic fridges/freezers?
+
+
+Thanks in advance,
+
+Paul.
+
+Paul Johnson (paj@gec-mrc.co.uk).	    | Tel: +44 245 73331 ext 3245
+--------------------------------------------+----------------------------------
+These ideas and others like them can be had | GEC-Marconi Research is not
+for $0.02 each from any reputable idealist. | responsible for my opinions
+",E,E
+"
+Message-ID: <1qk9qoINNdfl@controversy.math.lsa.umich.edu>
+NNTP-Posting-Host: sirius.math.lsa.umich.edu
+
+1. Can low Voltage lights be controlled with an X10  module by putting it 
+before the transformer? It seems to work, even the dimmer works. Not very 
+reliable. Will it damage the module? Can it be done reliably?
+
+2. I put a motion switch (Heath) to a low voltage light, it worked but now it is
+broken, too much current? How can I get arround that? 
+  
+3. How can I increase the intensity of a light using the X10 PC computer
+interface without having it go 100% on first and then down. I am doing
+my own programing, not the X10 program.
+
+Thanks   C. Montenegro 
+",E,E
+"
+
+
+Does anyone out there know of any products using Motorola's Neuron(r) chips MC143150 or MC143120. If so, what are they and are they utilizing Standard Network Variable Types (SNVT)?
+_________________________________________________________________________________
+
+Ted Van Den Heuvel   heuvel@neptune.iex.com
+KX5P
+",E,E
+"
+
+In article <C5quI4.4CF@spk.hp.com> borowski@spk.hp.com (Don T. Borowski)  
+writes:
+> Dean Anneser (anneser@pwa-b.uucp) wrote:
+> : My 9 yr old son has signed up to do a science report on batteries.  I  
+was
+> : wondering if anyone could provide me with some information as to how  
+to
+> : construct a home-built battery.  In my grade school days, I remember 
+
+(snip!)
+
+I haven't been following this, so I'm sorry if somebody already mentioned  
+this, but you could grab a lemon (I think potatoes work too, but I'm not  
+sure), a strip of copper, and a strip of zinc (I think you can get the  
+metal in a hardware store or hobby shop, maybe??).  Stick the strips in  
+the lemon (so they don't touch!) and you'll get a measurable voltage (not  
+a lot, but, hey, it's a lemon :-)  ).  As I recall we had to hook  
+something like ten of these things to get an appreciable amount of  
+current, because of the mondo internal resistance, but if you just need a  
+demo you might get it to run a tiny fan or something! :-)
+
+
+Mark S. Underwood
+EE Student, University of Kentucky
+Lab Assistant, Boyd Hall Microlab 
+	(a tiny little division of UK Library Microlabs)
+E-Mail:  msunde01@mik.uky.edu
+
+
+",E,E
+"
+
+In article <1993Mar29.181406.11915@iscsvax.uni.edu> klier@iscsvax.uni.edu writes:
+
+>
+>Multiple drug resistance in TB is a relatively new phenomenon, and
+>one of the largest contributing factors is that people are no longer
+>as scared of TB as they were before antibiotics.  (It was roughly as
+>feared as HIV is now...)
+>
+
+Not that new.  20 years ago, we had drug addicts harboring active TB
+that was resistant to everything (in Chicago).  The difference now
+is that such strains have become virulent.  In the old days, such
+TB was weak.  It didn't spread to other people very easily and just
+infected the one person in whom it developed (because of non-compliance
+with medications).  Non-compliance and development of resistant strains
+has been a problem for a very long time.  That is why we have like 9
+drugs against TB.  There is always a need to develop new ones due to
+such strains.  Now, however, with a virulent resistant strain, we
+are in more trouble, and measures to assure compliance may be necessary
+even if they entail force.
+
+-- 
+----------------------------------------------------------------------------
+Gordon Banks  N3JXP      | ""Skepticism is the chastity of the intellect, and
+geb@cadre.dsl.pitt.edu   |  it is shameful to surrender it too soon."" 
+----------------------------------------------------------------------------
+",M,M
+"
+News-Software: VAX/VMS VNEWS 1.41
+Nntp-Posting-Host: ubvmsd.cc.buffalo.edu
+
+
+	Im designing a circuit with just a silicon diode. I dont need
+to modify any of the parameters. But the problem will not accept the following
+statement
+		
+		.model diode D
+
+        The pspice book I have is terrible. I would appreciate any help.
+
+
+                                  Neil Gandler
+ _____________________________________________________________________________
+       Gandler Electronics
+                            Home Automation & electronic design technology
+ _____________________________________________________________________________
+",E,E
+"
+
+Has anyone done a model of the 52 pin version of the 68hc11?  It doesn't
+seem to be too big a job, but if someone else has already done it ...
+
+many thanks
+Ken Martin
+",E,E
+"
+
+ 
+        On an A/D board I've got, I'm using the A/D lines.  It measures 
+the voltages properly, ie: with a 7v power supply it reg's 7v and with 
+5v, it reg's 5v.  Problem is when I've got the input voltage, and I wish 
+to lower it via a resistor.  The sensitivity of the board is so great 
+that I can triger it with holding the 5/7v wire in one hand, and touch 
+the probe and it will register the full input voltage.  A 1m resistor 
+only lowers voltage by .1v so this is not too feesable. 
+ 
+                What could the problems be and what else could I use
+to lower the input voltage?  (btw I've got it grounded correctly)
+ 
+ 
+  _________________________________________________
+  Inspiration  |   ___                             |
+  comes to     |  \   o  baden@sys6626.bison.mb.ca |
+  those who    | (  ^  ) baden@inqmind.bison.mb.ca |
+  seek the     |   /-\      =] Baden de Bari [=    |
+  unknown.     |                                   |
+  ------------------------------------------------- 
+ 
+",E,E
+"
+
+[reply to aldridge@netcom.com (Jacquelin Aldridge)]
+ 
+>Medicine is not a totally scientific endevour.
+ 
+The acquisition of scientific knowledge is completely scientific.  The
+application of that knowledge in individual cases may be more art than
+science.
+ 
+>There are diseases that haven't been described yet and the root cause
+>of many diseases now described aren't known. (Read a book on
+>gastroenterology sometime if you want to see a lot of them.) After
+>scientific methods have run out then it's the patient's freedom of
+>choice to try any experimental method they choose. And it's well
+>recognized by many doctors that medicine doesn't have all the answers.
+ 
+Certainly we don't have all the answers.  The question is, what is the
+most reliable means of acquiring further medical knowledge?  The
+scientific method has proven itself to be reliable.  The *only* reason
+alternative therapies are shunned by physicians is that their
+practitioners refuse to submit their theories to rigorous scientific
+scrutiny, insisting that ""tradition"" or anecdotal evidence are
+sufficient.  These have been shown many times in the past to be very
+unreliable ways of acquiring reliable knowledge.  Crook's ideas have
+never been backed up by scientific evidence.  His unwillingness to do
+good science makes the rest of us doubt the veracity of his contentions.
+ 
+David Nye (nyeda@cnsvax.uwec.edu).  Midelfort Clinic, Eau Claire WI
+This is patently absurd; but whoever wishes to become a philosopher
+must learn not to be frightened by absurdities. -- Bertrand Russell
+",M,M
+"
+Nntp-Posting-Host: mars.calstatela.edu
+
+Recently, my video monitor went dead, no picture, some low distorted sound.
+I didn't hear the tell-tale cracking that indicated HV at work, nor are the
+filaments at the far end of the tube glowing orange, just nothing.
+
+On examining the power board, I noticed the largest capacitor with a very
+bad bulge at the top.  Naturally, I want to replace it, but I can't find
+any sources.
+
+The electrolytic capacitor is 330 mF at 250WV.  It has radial leads, and is
+roughly 1 1/2 inches long, 1 1/8"" wide.  The dimensions are important since
+the whole board fits in a metal cage, leaving little room.
+
+Living in the Los Angeles area, I've been to numerous stores (Dow Radio,
+All Electronics, ITC Elect, Sandy's, Yale Elect) with empty hands.
+
+Can anyone suggest sources for high-voltage capacitors?  Mail order is 
+fine, although I'd rather check out a store to compare the can.  I'm going
+to try a video electronics store, hopefully they'll have HV caps.
+
+(By the way, the monitor is a ATARI SC1224, Goldstar circuitry, Masushita
+tube.  Anyone else had problems?)
+
+Thanks in advance,
+Rich K.
+
+email>  rkim@opus.calstatela.edu
+",E,E
+"
+
+I keep finding these programmers in local junk shops. This may
+mean that they are indeed junk - but i'd like to hear from anyone 
+else that may have met up with them. The basic device is a
+""Data I/O 29A universal programmer"", and the usual pod is a 
+""LogicPak 303A-Vo4"" with a ""303A-001"" programming tester/
+adapter. I'd really like to hear from anyone who knows whether
+these monsters are worth bothering with. All i want to do is blast
+PALCE22V10s. - Ideas, folks
+Mike.
+",E,E
+"
+Message-ID: <1qpgsiINN31p@diplodocus.cis.ohio-state.edu>
+References: <120466@netnews.upenn.edu> <1993Apr15.100452.16793@csx.cciw.ca>
+NNTP-Posting-Host: diplodocus.cis.ohio-state.edu
+
+>>	I was wondering if people had any good uses for old
+>>256k SIMMs.  I have a bunch of them for the Apple Mac
+>>and I know lots of other people do to.  I have tried to
+>>sell them but have gotten NO interest.
+
+How hard would it be to somehow interface them to some of the popular 
+Motorola microcontrollers.  I am a novice at microcontrollers, but I am
+starting to get into them for some of my projects.  I have several 256k
+SIMMs laying around from upgraded Macs and if I could use them as ""free""
+memory in one or two of my projects that would be great.  One project that
+comes to mind is a Caller ID device that would require quite a bit of RAM
+to store several hundered CID records etc...
+
+                                                             - Dan
+-- 
+             Daniel Joseph Rubin     rubin@cis.ohio-state.edu 
+     
+                       GO BENGALS!      GO BUCKS!
+",E,E
+"
+",E,M
+"
+
+L(>  levin@bbn.com (Joel B Levin) writes:
+L(>  John Badanes wrote:
+L(>  |JB>  1) Ron...what do YOU consider to be ""proper channels""...
+L(>  
+L(>  |  I'm glad it caught your eye. That's the purpose of this forum to
+L(>  | educate those, eager to learn, about the facts of life. That phrase
+L(>  | is used to bridle the frenzy of all the would-be respondents, who
+L(>  | otherwise would feel being left out as the proper authorities to be
+L(>  | consulted on that topic. In short, it means absolutely nothing.
+L(>  
+L(>  An apt description of the content of just about all Ron Roth's 
+L(>  posts to date.  At least there's entertainment value (though it 
+L(>  is diminishing).
+
+     Well, that's easy for *YOU* to say.  All *YOU* have to do is sit 
+     back, soak it all in, try it out on your patients, and then brag
+     to all your colleagues about that incredibly success rate you're
+     having all of a sudden...
+
+     --Ron--
+---
+   RoseReader 2.00  P003228: For real sponge cake, borrow all ingredients.
+   RoseMail 2.10 : Usenet: Rose Media - Hamilton (416) 575-5363
+",E,M
+"
+
+AllThe Devil ReincarnateSWR meter for CB radios
+
+TD>From: ssave@ole.cdac.com (The Devil Reincarnate)
+TD>Organization: CDAC, WA
+TD>What
+TD>is a good choice for a CB? 1/4 or 1/8 wave?
+TD>  I read the installation instructions on a 1/4 wave antenna,
+TD>and they suggested that I use an SWR to tune it at channel 12
+TD>and channel 32 for a minimum reading.  Question is, why channel
+TD>12 and 32?
+
+The best antenna is one that will let out the most wave (probably not the 
+best explanation, but the rest makes sense) A one wave will cancell itself 
+out (BTW no such beastie) . The best is a 1/2 wave antenna, followed by 
+1/4, then 1/8 etc.
+
+As for SWRing in, what you actually do is trim the antenna to the correct 
+length for the specific wavelength you will be transmitting on. Since the 
+wavelength varies with the channel you use, then it's recommended to SWR 
+in using the middle channel of those you are going to use.
+Anyway in the beginning of CB's, all new antennas had to be SWR'ed in, 
+nowdays manufactures trim the antennas almost spot on, so that there's not 
+much point in SWRing. Then again you may be a fanatic and whish to do it 
+anyway.
+
+Cheers 
+Peter T.
+
+",E,E
+"
+
+In article rind@enterprise.bih.harvard.edu (David Rind) writes:
+
+>Do you believe that any quacks exist?  How about quack diagnoses?  Is
+>being a ""licensed physician"" enough to guarantee that someone is not
+>a quack, or is it just that even if a licensed physician is a quack,
+>other people shouldn't say so?  Can you give an example of a
+>commonly diagnosed ailment that you think is a quack diagnosis,
+>or have we gotten to the point in civilization where we no longer
+>need to worry about unscrupulous ""healers"" taking advantage of
+>people.
+
+
+I would say there are also significant numbers of unscrupulous doctors (of
+the squeaky-clean, traditional crew-cut, talk to the AMA before starting
+any treatment, kind) who recommend treatments that, though ""accepted"", may
+not be necessary for the patient at the time.  And all for making a quick
+buck.  I would not be surprised if the cost of medical services in the U.S. is
+significantly inflated by these ""quacks of a different color"".  In fact, I'd
+say these doctors are the most dangerous since they call into question the
+true focus of the medical profession.  The AMA and the Boards should focus
+on these ""quacks"" instead of devoting unbelievable energy on 'search-and-
+destroy-missions' to pull the licenses of those doctors who are trying non-
+traditional or not fully accepted treatments for their desperate patients
+that traditional/accepted medicine cannot help.
+
+
+***************************************************
+Now to make a general comment on many recent posts:
+***************************************************
+
+Lately I've seen the word ""quack"" bandied about recklessly.  When a doctor or
+doctor-wanna-be has decided to quit discussing any controversial medical
+subject in a civilized manner, all he/she has to do is say ""quack-quack"" and
+somehow they magically expect the readership of this newsgroup to roll over
+on their backs and pee-pee on themselves in obedience.  What do they teach
+you in medical school - how to throw your authority around?
+
+Let me put it another way to make my point clear:  ""quack"" is a nebulous word
+lacking in any precision.  Its sole use is to obfuscate the issues at hand.
+The indiscriminate use of this word is a sure sign of incompetency;  and coming
+from any medical doctor (or wanna-be), where competency is expected, is real
+scary.
+
+But what do I know, I've already been diagnosed by the sci.med.gods in this
+newsgroup as being 'anal retentive', and 'psychotic'.  I look forward to more
+net.diagnoses.  Hey, they're free.
+
+
+Jon ""Quacks 'R Us"" Noring
+
+
+(p.s., may I suggest - seriously - that if the doctors and wanna-be-doctors on
+the net who refuse to have an open mind on alternative treatments and
+theories, such as the ""yeast theory"", should create your own moderated group.
+You can call it sci.med.traditional.moderated or sci.med.AMA-approved, so you
+can keep anal-retentives like me out of it.)
+
+-- 
+
+Charter Member --->>>  INFJ Club.
+
+If you're dying to know what INFJ means, be brave, e-mail me, I'll send info.
+=============================================================================
+| Jon Noring          | noring@netcom.com        |                          |
+| JKN International   | IP    : 192.100.81.100   | FRED'S GOURMET CHOCOLATE |
+| 1312 Carlton Place  | Phone : (510) 294-8153   | CHIPS - World's Best!    |
+| Livermore, CA 94550 | V-Mail: (510) 417-4101   |                          |
+=============================================================================
+Who are you?  Read alt.psychology.personality!  That's where the action is.
+",M,M
+"
+
+I've recently picked up some TIL311 display chips, but I can't find
+any information on them.  It seems they are no longer made by TI, and
+I don't have an old enough data book.  :-(
+
+It appears to have a dot-matrix led display capable of showing one hex
+digit.  It is in a 14 pin DIP package, but pins 6, 9, and 11 are not
+present.
+
+If you have any information on this part (pinout, power requirments,
+functions, ...) please send me e-mail.
+
+Thank You,
+
+-- 
+Gary Segal                             Motorola Inc.            
+segal@oscar.rtsg.mot.com               Cellular Infrastructure Division
+	--- we are standing here only to gaze at the wind ---
+",E,E
+"
+
+
+C >Hi:
+C >I have a 486DX2-66MHz computer to use with an A/D board
+C >for data acquisition on an AT bus...I'm having problems.
+C >The AT bus runs at 12.5 MHz - correct?  So there should
+C >be no bus speed conflict. But I read somewhere that the
+C >new 486DX2-66 MHz CPU runs on a 33 MHz bus - is that for
+C >the local bus or the AT bus also - if so then I have a problem.
+C >^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C >When I run on non-turbo-mode the speed goes to 8 MHz and the
+C >A/D doesn't work.  Please mail your views!  Thanks.
+C >Vincent
+C >cyl5@musica.mcgill.ca
+C >
+
+The STANDARD AT bus (ISA) runs at 8MHz, not 12.5 MHz, but some 
+non-stnadard ISA buses do have higher clock rates, but be careful, since 
+some boards don't work with faster than standard rates.  For instance, my 
+486 has adjustable AT bus speeds, and my PAS16 audio card chokes when I do 
+AD data acquisition with a bus speed faster than 10MHz.
+
+The fact that non-turbo-mode speed A/D doesn't work is weird.  You may 
+have a motherboard with a hardware 'bug'.  
+
+33 MHz bus on the 486DX2 66 does refer to the local bus.  FYI: the AT bus 
+operates asynchronously, and is linked to the local bus via a 'bus 
+interface', which is one function that your 'chipset'.
+
+-rdd
+
+---
+ . WinQwk 2.0b#0 . Unregistered Evaluation Copy
+ * KMail 2.95d W-NET HQ, hal9k.ann-arbor.mi.us, +1 313 663 4173 or 3959
+                                                     
+----
+| HAL 9000 BBS:  QWK-to-Usenet gateway  | Four 14400 v.32bis dial-ins    |
+| FREE Usenet mail and 200 newsgroups!  | PCBoard 14.5aM * uuPCB * Kmail |
+| Call +1 313 663 4173 or 663 3959      +--------------------------------+
+| Member of EFF, ASP, ASAD  * 1500MB disk * Serving Ann Arbor since 1988 |
+",E,E
+"
+
+Hi,
+
+Right now I should do some characterization of opamps. Because I don't  
+have
+special equipment for this task, I have to do this job with relativly  
+simple
+equipments (Frequency sweeper, DSO, etc.). 
+Does anyone know good test circuitry for characterization of opamps? 
+Especially for measuring open-loop gain, phase margin, PSSR, CMMR and so  
+on.
+Are there any books or application notes on this subject available?
+
+Please reply vi e-mail or nn.
+
+Thanks
+Mark
+
+__________________________________________________________________________ 
+_____
+Mark Niederberger
+E-mail: mniederb@itr.ch
+__________________________________________________________________________ 
+_____
+",E,E
+"
+
+In article <C5r60r.4ID@megatest.com>, alung@megatest.com (Aaron Lung) writes:
+> In article <C5qsBF.IEK@ms.uky.edu> billq@ms.uky.edu (Billy Quinn) writes:
+>>I built a little project using the radio shack 5vdc relays to switch
+>>audio.  I got pretty bad 'clicks' when the thing switched.  I was doing
+>>most of the common things one is supposed to do when using relays and
+>>nothing seemed to get rid of the clicks.
+>>
+>>
+>>My question is:
+>>
+>>	Is there a good relay/relay circuit that I can use for switching
+>>audio, so that there will be *NO* noise of any kind on the audio lines.
+>>
+>>
+>>I will appreciate any advice or references to advice.  Also, exact part
+>>numbers/company names etc. for the relays will help!
+> 
+> Are you switching high level signals or low level signals like pre-amp
+> out level signals?  Also, are the clicks you mentioning the big
+> clack that happens when it switches or are you refering to contact
+> bounce?  How are you driving the relays?  TTL gate output?  Switching
+> transistor?  How are the relays connected to what you are driving?
+> 
+> Need more specifics to answer your question!! :-)
+
+As a general rule, no relay will cleanly switch audio if you try to tranfer
+the circuit with the contacts.  The noise you hear is due to the momentary
+opening and closing of the path.
+
+The noiseless way of transfering audio is to ground the circuit.  In high
+impedance audio circuits a resistive ""T"" is constructed close to characteristic
+impedance of the circuit.  Grounding the imputs (connected to the T) transfers
+the audio.
+
+In low impedance circuits transformers are usually used, and the inputs are
+shorted out or grounded.  Secondaries are paralleled at the characteristic
+impedance.
+
+Sometimes if it is necessary to actually switch audio, a second contact is used
+to momentarily short the circuit output for the duration of the switching time.
+
+Telephone relays are handy, because contacts can be adjusted to ""Make before
+break and Vica Versa"" but I haven't seen any of these for years.
+
+Nowadys switching is done electronically with OP amps, etc.
+
+A novel circuit I used to build was a primitive ""optical isolator"".. It consists
+of a resistive photocell and a lamp, all packaged in a tube.  When the lamp is
+off the cell is high resistance.  Turn the lamp on and the resistance lowers
+passing the audio.  Once again this device in a ""T"" switches the audio.  Varying
+the lamp resistance give a remote volume control.  Use 2 variable resisters and
+you have a mixer!
+
+Lots of luck!
+-- 
+73, Tom
+================================================================================
+Tom Wagner, Audio Visual Technician.  Malaspina College Nanaimo British Columbia
+(604)753-3245, Loc 2230  Fax:755-8742  Callsign:VE7GDA Weapon:.45 Kentucky Rifle
+Snail mail to:  Site Q4, C2.   RR#4, Nanaimo, British Columbia, Canada, V9R 5X9  
+
+I do not recyle.....   I keep everything!       (All standard disclaimers apply)
+================================================================================
+",E,E
+"
+
+In article <cantrell.735330560@sauron.msfc.nasa.gov> cantrell@sauron.msfc.nasa.gov (Eric Cantrell) writes:
+>Awhile back someone posted some information on where you can get
+>kits to build an EEG.  Does anyone remember where you could get
+>this.  I'm very interested in getting some info on this.  Thanks 
+>in advance.
+>
+>eric
+>
+>cantrell@sauron.msfc.nasa      
+>
+
+Contact Circuit Cellar Inc., 4 Park St. - Suite 12, Vernon, CT 06066
+(203)875-2751, FAX (203)872-2204 and inquire about HAL-4 EEG Biofeedback
+Brainwave Analyzer.  
+
+In addition, if you want to build your own system from board-level compo-
+nents (biosignal amplifiers, analog isolators and isolated multiplexers)
+you can contact The Davron Group,P.O. Box 237, Deerfield, IL  60015
+FAX (708)948-9290.
+
+- David
+
+
++------------------------------------------------------------+
+|  David Prutchi                 HC1DT                       |
+|  Washington University         <prutchi@mesun4.wustl.edu>  |
+|  Campus Box 1185               <dp@cec1.wustl.edu>         |
+|  One Brookings Drive                                       |
+|  St. Louis, MO  63130-4899                                 |
++------------------------------------------------------------+
+",E,E
+"
+
+
+    I was wondering if anyone out there in net-land knew of a SIMPLE
+way to make a 4-band equalizer (single channel).  I need it to accept
+LINE inputs (tape deck, CD player, etc.) and output to the same! So
+input impedance should equal output impedance.  Also, since I am driving
+a line, I would need 1 volt p-p output.  Final requirement is that I
+can either:
+	      1. Control it digitally
+			OR
+	      2. Control it easily, or with few resistors
+
+FINALLY - If anyone knows of any FILTER or EQUALIZER chips, that might
+be useful, please let me know. (I have seen a couple of them from NATIONAL,
+and MAXIM).  Thanks in advance,
+				  Martin
+",E,E
+"
+
+In article <C52DsD.7pB@compsci.liverpool.ac.uk> scst83@csc.liv.ac.uk (Chris Smith) writes:
+
+> I'm looking to build a DSP for guitar processing. Hence lots of background
+> information would be really useful !
+> 
+> If anyone's got any info, could they email.....
+
+Well, I'm not sure I'd use this to process a guitar but there was a audio
+filter DSP construction article in the Sept 92 issue of QST magazine (Ham Radio
+oriented).  The DSP is available in kit form for about $120.
+
+This particular DSP filter was targetted toward processing audio to remove
+noise (static).  I built it and it really works well.  The source code is
+available too.  It makes a noisy audio signal much easier to hear.  Note that
+this is for communication applications and is not ""high fidelity"".
+
+
+
+--
+- - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - +
+Mike Linnig, Texas Instruments Inc. | 97.43% of all statistics are made |
+Phone: (214) 575-3597  CALL: N5QAW  | up; most of them (83.6 percent)   |
+Internet: mike.linnig@dseg.ti.com   | are wrong.                        |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+",E,E
+"
+
+donrm@sr.hp.com (Don Montgomery) writes:
+
+
+>Radio Shack has canceled their ""Battery of the Month"" Club.  Does 
+>anyone know why?  
+
+>They say they'll honor existing cards in customer hands, but no new
+>cards will be issued.
+
+I was told that this is an environmental based move.  I was also told that
+there will be 'somthing' else to replace the battery club.  Like maybe
+the 360K floppy club ;-).
+
+We'll see ....
+-- 
+*-----------------------------------------------------------------------*
+*	Bill Quinn			billq@ms.uky.edu		*
+*-----------------------------------------------------------------------*
+",E,E
+"
+Message-ID: <1993Apr19.161519.1@venus.iteb.serpukhov.su>
+NNTP-Posting-Host: venus.iteb.serpukhov.su
+
+I am very interested in investigations of starvation for improving health.
+I am the young Russian reseacher  and have highest medical education
+ and expierence in reseach work in biological field and would like
+ to work on this problem.
+Can anybody send me the adresses of the hospitals or Medical Centers where  
+scientific problems of human starvation for the health are investigated?  
+Also I would like to set scientific contacts with colleagues who
+deals with investigations in this field.
+I would be very appreciated anyone reply me. 
+
+Pls, contact by post: 142292, Russia, 
+                        Moscow Region,
+                        Puschino,
+                        P.O. box 46, 
+                        for Kravchenko N.      ;
+
+       or by e-mail: kutuzova@venus.iteb.serpukhov.su
+                                           
+                                            Thank you advance,   
+                                             Natalja Kravchenko.
+  
+ 
+                
+
+
+
+
+
+
+",M,M
+"
+
+I hope this is the correct newsgroup for this.
+
+What is the scoop on Methanol and its future as an alternative fuel for
+vehicles ?  How does it compare to ethanol ?
+
+There was some news about health risks involved.  Anybody know about
+that.  How does the US Clean Air act impact the use of Methanol by the
+year 1995 ?
+
+I think its Methyl Tertiary butyl ether which the future industries will
+use as a substitute for conventional fuels.
+
+There is company Methanex which produces 12% of the world's supply of
+Methanol. Does anybody know about it ?
+
+Please reply by e-mail as I do not read these newsgroups.
+
+Thanks in advance.
+--
+Vilok Kusumakar                    OSI Protocols for tomorrow......
+vilok@bnr.ca                       Bell-Northern Research, Ltd.
+Phone: (613) 763-2273              P.O. Box 3511, Station C 
+Fax:   (613) 765-4777              Ottawa, Ontario, K1Y 4H7
+",E,M
+"
+
+In article <1993Apr20.183416.18744@dres.dnd.ca> sburton@dres.dnd.ca (Stan Burton) writes:
+>
+>--
+>
+>I would like to be able to detect the angular position (low accuracy) of an
+>IR emitting source at a distance of about 100 meters (more is better) in
+>daylight.  The IR source could be emitting a signature; I'm leaning toward
+>30 KHz square wave with 50% duty cycle.
+>
+>I am considering the use of a quadrant detector from Centronic Inc. to give
+>information to a pan/tilt head to point the sensor and thus determine the
+>angles.  For the source I am considering wazing the heck out of an IR LED(s),
+>possibly an Optek OP290 or Motorola MLED81.  Wazing would mean at least 1 Amp
+>current pulses.  At this current the duty cycle of the LED drops to 10% and I
+>would need to cycle five of them in turn to get the 50% required.
+>
+>Has anyone done something like this?
+>
+>Stan Burton (DND/CRAD/DRES/DTD/MSS/AGCG)                 sburton@dres.dnd.ca
+>(403) 544-4737     DRE Suffield, Box 4000, Medicine Hat, AB, Canada, T1A 8K6
+
+A method which will directly (almost) provide you with the information that
+you require is that which is commonly used for coordinate measurements of 
+human body landmarks (eg. the SELSPOT system by SELSPOT AB, Sweden, and the
+WATSMART System ??).  These use lateral photoeffect detectors [Lindholm and
+Oberg, 1974; Woltring and Marsolais, 1980] to determine the position of a
+spot of light projected (using a camera lens) over its surface.  In escence,
+the detector is a large photodiode with four cathodes (one on each of the
+four sides of the square detector crystal) and a single anode (the back of
+the crystal).  A spot of light will produce currents which are proportional
+to the position of the spot on the detector's face.  Let's try some ASCII
+graphics in 2-D (so the detector has two cathodes to detect linear position)
+
+
+
+              -------------------------> 1
+             |                       |
+             |                       |       |\
+           -----   cathode 1         |       |  \
+           XXXXX                     ________| +  \
+           XXXXX|                            |      \        -------
+    light >XXXXX|                            |        \_____ divider __ output
+           XXXXX|     |                      |        /      -------
+           XXXXX|-----| |--                  |      /           |
+           XXXXX|   + |    |         ________| -  /           1 + 2
+           XXXXX|         --- gnd    |       |  /
+           XXXXX|         \ /        |       |/
+           XXXXX| anode              |
+           XXXXX                     |
+           ----- cathode 2           |
+             |                       |
+             |                       |
+             --------------------------> 2
+
+If the dot of light from the LED is the ONLY source of light, then the position
+of the projection is given by this circuit regardless of the level of illumina-
+tion (the divider is used to normalize relative to total received power).  When
+this circuit is used in the presence of other sources of light, then the way of
+""tuning"" to it is to sample for a few msec the background signal, light the LED
+for an equal time and sample that signal separately.  The difference between
+the two is the position of the LED.
+
+Hamamatsu photonics sells linear and 2-D lateral photoeffect detectors, and
+they also sell the required signal processing electronics.  The ready-made
+systems by SELSPOT and others are NOT cheap ... 
+
+Lindholm, L.E., and K.E. Oberg, ""An Optoelectronic Instrument for Remote
+On-Line Movement Monitoring"", Biotelemetry, 1, 94-95, 1974.
+
+Woltring, H.J., and E.B. Marsolais, ""Opto-Electronic (SELSPOT) Gait Measure-
+ments in Two and Three Dimensional Space - A Preliminary Report"", Bull. Pros-
+thetics Research, 46-52, 1980.
+
+Most probably this technique can provide you with a much more accurate
+measurement than you need, but I think that its simplicity beats scanning
+a quadrant detector with a pan/tilt system until you reach zero difference.
+
+            - David
+
+
+
++------------------------------------------------------------+
+|  David Prutchi                 HC1DT                       |
+|  Washington University         <prutchi@mesun4.wustl.edu>  |
+|  Campus Box 1185               <dp@cec1.wustl.edu>         |
+|  One Brookings Drive                                       |
+|  St. Louis, MO  63130-4899                                 |
++------------------------------------------------------------+
+",E,E
+"
+Sender: daemon@cs.utexas.edu
+Message-ID: <9304161551.AA09980@deepthought.cs.utexas.edu>
+NNTP-Posting-Host: cs.utexas.edu
+
+Distribution: usa
+Reply-To: lihan@ccwf.cc.utexas.edu
+
+While I'm on the net bugging everyone, is there such a thing as a chip
+or chipset to decode Code 39 barcode?  I ask for a couple of reasons --
+mainly I want a reasonably compact encoding scheme to write information
+on magstripe cards and Code 39 appears to be about right.  (If the 'right'
+way to do it is something else, and it's reasonably easy, can someone let
+me know?)
+
+I might not get a chance to reply too quickly to this or my earlier post,
+but I'll get to them within a couple days, I think ..
+
+thanx everyone!  <BGB>  lihan@ccwf.cc.utexas.edu
+
+",E,E
+"
+Distribution: world
+Message-ID: <YfkEr1O00YUnNIPnx4@andrew.cmu.edu>
+NNTP-Posting-Host: po4.andrew.cmu.edu
+In-Reply-To: <1pqk9b$ib4@sunb.ocs.mq.edu.au>
+
+Sounds like a job for a universal time reciever.  I don't know the
+logisitics of the situation, but if you could just place a reciever in
+snow and place the oscillator in a nice lab somewhere else, your
+problems should be solved.
+Just a suggestion.
+
+Wayne Martin
+",E,E
+"
+
+Wayne Alan Martin <wm1h+@andrew.cmu.edu> writes:
+>Excerpts from netnews.sci.electronics: 16-Apr-93 Re: What do Nuclear
+>Site's .. by R_Tim_Coslet@cup.portal. 
+>> From: R_Tim_Coslet@cup.portal.com
+>> Subject: Re: What do Nuclear Site's Cooling Towers do?
+>> Date: Fri, 16 Apr 93 21:27:21 PDT
+>>  
+>> In article: <1qlg9o$d7q@sequoia.ccsd.uts.EDU.AU>
+>>         swalker@uts.EDU.AU (-s87271077-s.walker-man-50-) wrote:
+>> >I really don't know where to post this question so I figured that
+>> >this board would be most appropriate.
+>> >I was wondering about those massive concrete cylinders that
+>> >are ever present at nuclear poer sites. They look like cylinders
+>> >that have been pinched in the middle. Does anybody know what the
+>> >actual purpose of those things are?. I hear that they're called
+>> >'Cooling Towers' but what the heck do they cool?
+>Great Explaination, however you left off one detail, why do you always
+>see them at nuclear plants, but not always at fossil fuel plants.  At
+>nuclear plants it is prefered to run the water closed cycle, whereas
+>fossil fuel plants can in some cases get away with dumping the hot
+>water.  As I recall the water isn't as hot (thermodynamically) in many
+>fossil fuel plants, and of course there is less danger of radioactive
+>contamination.
+
+       Actually, fossil fuel plants run hotter than the usual 
+boiling-water reactor nuclear plants.  (There's a gripe in the industry
+that nuclear power uses 1900 vintage steam technology).  So it's
+more important in nuclear plants to get the cold end of the system
+as cold as possible.  Hence big cooling towers.  
+
+       Oil and gas fired steam plants also have condensers, but they
+usually are sized to get the steam back into hot water, not most of the
+way down to ambient.  Some plants do cool the condensers with water,
+rather than air; as one Canadian official, asked about ""thermal 
+pollution"" de-icing a river, said, ""Up here, we view heat as a resource"".  
+
+       Everybody runs closed-cycle boilers.  The water used is 
+purified of solids, which otherwise crud up the boiler plumbing when
+the water boils.  Purifying water for boiler use is a bigger job than 
+cooling it, so the boiler water is recycled.
+
+					John Nagle
+",E,E
+"
+
+In article <myers.735287742@peach.cs.scarolina.edu> myers@cs.scarolina.edu (Daniel Myers) writes:
+>I am under the impression that MSG ""enhances"" flavor by causing the
+>taste buds to swell.
+
+No, that's not how it works.
+
+>If this is correct, I do not find it unreasonable
+>to assume that high doses of MSG can cause other mouth tissues to swell.
+
+This may be through a different mechanism.
+
+>Also, as the many of the occurances (including two of the above)
+>involved beef, and as beef is frequently tenderized with MSG, this is
+>what I suspect as being the cause.
+
+Tenderizing beef involves sprinking or marinading it in papain, an enzyme.
+""Meat tenderizer"" packets might contain papain and MSG and seasonings, but
+MSG doesn't act as a tenderizer.
+
+-- 
+Steve Dyer
+dyer@ursa-major.spdcc.com aka {ima,harvard,rayssd,linus,m2c}!spdcc!dyer
+",M,M
+"
+Distribution: world
+Message-ID: <6APR199316135249@reg.triumf.ca>
+References: <1993Apr06.173031.9793@vdoe386.vak12ed.edu> <1pslckINNmn0@matt.ksu.ksu.edu>
+NNTP-Posting-Host: reg.triumf.ca
+News-Software: VAX/VMS VNEWS 1.41    
+
+In article <1pslckINNmn0@matt.ksu.ksu.edu>, nhowland@matt.ksu.ksu.edu (Neal Patrick Howland) writes...
+> 
+>From what I understand about radar dectectors all they are is a passive
+>device much like the radio in your car.  They work as an antenna picking
+>up that radar signals that the radar gun sends out.  Therefore there would
+>be no way of detecting a radar detector any more than there would be of
+>detecting whether some one had a radio in their car.  
+> 
+From my rather rusty knowledge of radio, most radio receivers use a superhet 
+circuit, so that the incoming signal is mixed with a local oscillator, giving 
+a fixed intermediate frequency (IF) that is more easily amplified. The
+detector detectors work by picking up IF re-radiated from your radar 
+detector. In Britain, where one has/used to pay for a TV licence, there 
+are/were TV detector vans prowling the streets, looking for people who hadn't 
+paid their licence fee. They had a couple of long solenoid antennae on the
+roof, and I believe could triangulate an operating TV from the IF. 
+
+I wonder how much of the IF is radiated back from the detector antenna, and 
+how much from the rest of the module. It might be worth putting the detector 
+in a proper RF shielded enclosure.
+
+--
+ Andrew Daviel, Vancouver, Canada <advax@triumf.ca>
+  finger advax@reg.triumf.ca for PGP key
+",E,E
+"
+
+BULLSHIT ! ! !
+
+
+",E,M
+"
+
+olsen@vetmed.cvm.uiuc.edu (Aart_Olsen) writes:
+
+>>|> I noticed at the fusebox that some circuits have the
+>>|> 12/2 with ground, and that on these circuits, the ground
+>>|> wire was tied to the same bus as the neutral (white) wire.
+>>
+>>This is contrary to the electrical code and should be fixed.
+>>
+>Sorry, but this is exactly according to the NEC.
+
+No need to be sorry, I blew it on this one.  At the main breaker box
+where there is a thick wire ground leading to the earth, both neutral
+and ground are hooked to this bus.  In any other breaker box (or an
+outlet box, etc.) the ground and neutral must not be connected together.
+
+
+",E,E
+"
+Message-ID: <1qquvm$ndt@gondor.sdsu.edu>
+NNTP-Posting-Host: eng.sdsu.edu
+X-Newsreader: TIN [version 1.1 PL9]
+
+
+Does anyone has a table about the size of the wire to the amount of current it can carry.  Probably in the 1-15amp range.  My friend is interested in converting a Mazda into an electric car.  Needed information for estimation.  Thanks in advance.  
+
+p.s. any info on electric will be greatly appreaciated.  
+
+",E,E
+"
+
+caadams@atlas.cs.upei.ca (Kenny Adams) writes:
+
+>hi,
+>	instead of using a +15vdc supply for the 4066 try using a +7 and -7
+>volt supply.  i have some commercial audio equipment that uses this approach
+>for ground referenced audio.  they use the -7 volt supply as the logic
+>ground.
+
+In this case would the switch control voltages be -7V to turn the switch
+off and >0V to turn the switch on?
+
+michael fulbright
+msf@as.arizona.edu
+",E,E
+"
+
+Does anyone know what processor the Atari 2600 used? What I'm looking for is th
+e pin-outs for the Atari 2600.... the schematics for it it... does anyone have
+any idea where I could find this or any related information? This is very impor
+tant. Also, are the ROM chips that were used fo rthe 2600 games still available
+, or were they propreitary? Please email me with any responces, as this is very
+ important.. Thanks a million...
+
+BTW- Anyone who works/has worked for Atari, I could really use your help with i
+nfo on the old 2600, please email me if you are willing to help me.... thatnks
+alot!!
+
+-Peter
+",E,E
+"
+
+In article <1rgnn6$lli@fnnews.fnal.gov> dh@fncrd6.fnal.gov (don husby) writes:
+>
+>Poor person's Kirlian Photography (try this at home)
+>
+>1. Hold your hand up to a cold window.
+>2. Look closely at the stunning corona effects around
+>   your fingertips.
+>3. Remove hand (from window) and observe after image.  
+>4. Invent crackpot theory to explain the effect.
+
+Advanced Kirlian Photography (try this at home, too)
+
+1.  Get a camera
+2.  Have your subject face you with his/her back to the sun.
+3.  Take photo
+4.  Observe the glow behind their silhouetted image on the photo
+5.  Invent crackpot theory to explain the effect
+
+-- 
+John Mechalas                                          ""I'm not an actor, but
+mechalas@gn.ecn.purdue.edu                                 I play one on TV.""
+Aero Engineering, Purdue University                     #include disclaimer.h
+",M,M
+"
+
+
+Someone I know has recently been diagnosed as having Candida Albicans, 
+a disease about which I can find no information.  Apparently it has something
+to do with the body's production of yeast while at the same time being highly
+allergic to yeast.  Can anyone out there tell me any more about it?
+
+Thanks.
+-- 
+David Partain                   |  davpa@ida.liu.se
+IDA, University of Link\""oping  |  work phone:  +46 (013) 28 26 08
+S-581 83 Link\""oping, Sweden    |  telefax:     +46 (013) 28 26 66
+",M,M
+"
+
+Does any one know if the 6551 is timing/pin compatible with the 6551.. 
+It seems the 6551 has in iheirent bug with cts/rts handshaking and i need
+a suitable pin replacement to put in my serial card... possibly a buffered
+version perhaps?
+
+
+-- 
+jolt@gnu.ai.mit.edu	      |    Its not impossible, just improbable
+johnp@pro.angmar.uucp         |            (Zaphod Beeblbrox)
+bl298@cleveland.freenet.edu   |   N1NIG@amsat.org (Being a Ham is so grand)
+",E,E
