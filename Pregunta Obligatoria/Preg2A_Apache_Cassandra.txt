@@ -1,0 +1,8 @@
+Apache Cassandra es una base de datos NoSQL distribuida desarrollada en Facebook. NoSQL indica que la base de datos no sigue un modelo relacional, además de no utilizr el lenguaje SQL para modelar los datos. 
+Las ventajas de utilizar Apache Cassandra es la gran escalabilidad (lineal) al agregar nuevos nodos; la distributividad, la cual se complementa con una alta disponibilidad y replicación de datos, con lo que se obtiene una buena tolerancia a fallos; además, las consultas se pueden realizar a gran velocidad. Todo esto a cambio de un modelamiento un tanto más trabajoso y especializado de los datos.
+
+Cassandra interactúa con Python mediante el driver de Python para Apache Cassandra. Para ser más estrictos, la conexión se realiza mediante una instancia de Cluster en python para trabajar con algún cluster de Cassandra. Una forma de realizar esto es mediante el comando import de Python:
+from cassandra.cluster import Cluster
+Desde una instancia de Cluster se pueden realizar conexiones, ejecutar sentencias en CQL (Cassandra Query language) y asignarlas a otros objetos. Con lo que enlaza las herramientas de representación de datos de Python.
+
+
